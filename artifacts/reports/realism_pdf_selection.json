@@ -1,0 +1,26 @@
+{
+ "runs": [
+  {
+   "run": "realism_pdf",
+   "r1_gamma": 1.0,
+   "best_score": 1.1437169530777296,
+   "best_step": 4000,
+   "last_step": 16000,
+   "best_val_c2st": 1.0,
+   "best_val_feat_fd_ratio": 12.87433906155459,
+   "kept_as": "work/realism_pdf_run1"
+  },
+  {
+   "run": "realism_pdf_r1g10",
+   "r1_gamma": 10.0,
+   "best_score": 0.6177618042619015,
+   "best_step": 2000,
+   "last_step": 14000,
+   "best_val_c2st": 1.0,
+   "best_val_feat_fd_ratio": 2.3552360852380296,
+   "kept_as": "realism_pdf"
+  }
+ ],
+ "selected": "realism_pdf_r1g10",
+ "summary": "2 training runs (run with R1 gamma 1: best validation score 1.144 at step 4000 (C2ST 1.000), stopped at 16000; run with R1 gamma 10: best validation score 0.618 at step 2000 (C2ST 1.000), stopped at 14000); selected the run with R1 gamma 10 on the validation score"
+}

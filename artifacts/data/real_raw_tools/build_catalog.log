@@ -1,0 +1,597 @@
+{
+ "n_rows": 95592,
+ "by_technique": {
+  "xas": 2469,
+  "xrd": 92687,
+  "pdf": 436
+ },
+ "by_source": {
+  "xaslib": {
+   "xas": 277
+  },
+  "bmm_standards_nist": {
+   "xas": 359
+  },
+  "lisa_xasdb": {
+   "xas": 178
+  },
+  "github_xraylarch_examples": {
+   "xas": 42
+  },
+  "cls_xasdb": {
+   "xas": 1048
+  },
+  "mdr_xafs_db": {
+   "xas": 401
+  },
+  "zenodo_17131699_PtCo_PtNi_HTPEM": {
+   "xas": 48,
+   "xrd": 59
+  },
+  "zenodo_8041702_PtFeOx_operando_XAS": {
+   "xas": 11
+  },
+  "ucl_rdr_19063886": {
+   "xas": 10
+  },
+  "cardiff_27052390": {
+   "xas": 18,
+   "xrd": 6
+  },
+  "figshare_30323788": {
+   "xas": 12,
+   "xrd": 9
+  },
+  "mendeley_9bhtr2w54w": {
+   "xas": 21,
+   "xrd": 11
+  },
+  "mendeley_w8bxyj33hr": {
+   "xas": 8
+  },
+  "zenodo_21874842_alphaPtO2": {
+   "xas": 11
+  },
+  "zenodo_16948020_Ni3Ga": {
+   "xas": 22,
+   "xrd": 8,
+   "pdf": 55
+  },
+  "zenodo_4746349_CoO_assemblies": {
+   "xas": 3
+  },
+  "zenodo_15310405_PtAC": {
+   "xrd": 7
+  },
+  "zenodo_4952884_PtPd_dendrimer": {
+   "xrd": 8
+  },
+  "zenodo_14186519_GO_PtNP": {
+   "xrd": 4
+  },
+  "zenodo_21028650_GOPt10": {
+   "xrd": 1
+  },
+  "zenodo_21028904_GOPt20": {
+   "xrd": 1
+  },
+  "dataversenl_7M9Q6K": {
+   "xrd": 6
+  },
+  "zenodo_17886350_Pt_TMS": {
+   "xrd": 15
+  },
+  "github_DeepStruc": {
+   "pdf": 5
+  },
+  "github_scatterlab_AuNP": {
+   "pdf": 250
+  },
+  "github_diffpy_srfit_examples": {
+   "pdf": 4
+  },
+  "github_ML-MotEx": {
+   "pdf": 1
+  },
+  "github_ClusterFinder": {
+   "pdf": 4
+  },
+  "zenodo_2593613_PDF_config_comparison_Ni_ID22_MSPD": {
+   "pdf": 19
+  },
+  "zenodo_1255630_PDF_yeelimite_pastes_Ni_std": {
+   "pdf": 8
+  },
+  "zenodo_890585_PDF_cement_gels_Ni_std": {
+   "pdf": 12
+  },
+  "zenodo_14944751_lab_PDF_protocols_PDFgetX3": {
+   "pdf": 63
+  },
+  "zenodo_15069353_DNA_Ag16Cl2_TS": {
+   "pdf": 4
+  },
+  "zenodo_56682_ncomm_goldnp_2016": {
+   "pdf": 11
+  },
+  "opxrd": {
+   "xrd": 92552
+  }
+ },
+ "xas_by_edge": {
+  "As K": 148,
+  "Au L2": 1,
+  "Au L1": 9,
+  "Au L3": 12,
+  "Cd K": 12,
+  "Ce L3": 41,
+  "Co K": 177,
+  "Cr K": 75,
+  "Cu K": 141,
+  "Eu L3": 17,
+  "Fe K": 267,
+  "Mn K": 56,
+  "Mo K": 137,
+  "Ni K": 215,
+  "Pb L1": 9,
+  "Pb L3": 21,
+  "Pt L3": 154,
+  "S K": 178,
+  "Se K": 96,
+  "Sr K": 37,
+  "V K": 22,
+  "W L3": 13,
+  "Zn K": 61,
+  "Bi L1": 4,
+  "Bi L3": 7,
+  "Br K": 5,
+  "Ce L1": 1,
+  "Cs L1": 1,
+  "Cs L3": 1,
+  "Dy L1": 4,
+  "Dy L3": 4,
+  "Er L1": 3,
+  "Er L3": 7,
+  "Eu L1": 6,
+  "Ga K": 17,
+  "Gd L1": 4,
+  "Gd L3": 4,
+  "Ge K": 25,
+  "Hf L1": 1,
+  "Hf L3": 3,
+  "Ho L1": 2,
+  "Ho L3": 5,
+  "La L1": 2,
+  "La L3": 11,
+  "Lu L1": 2,
+  "Lu L3": 4,
+  "Nb K": 11,
+  "Nd L1": 5,
+  "Nd L3": 11,
+  "Pr L1": 4,
+  "Pr L3": 6,
+  "Pt L1": 6,
+  "Rb K": 1,
+  "Re L1": 5,
+  "Re L3": 5,
+  "Ru K": 7,
+  "Sm L1": 4,
+  "Sm L3": 4,
+  "Ta L1": 1,
+  "Ta L3": 4,
+  "Tb L1": 2,
+  "Tb L3": 2,
+  "Ti K": 49,
+  "Tm L1": 2,
+  "Tm L3": 2,
+  "W L1": 1,
+  "Y K": 14,
+  "Yb L1": 2,
+  "Yb L3": 2,
+  "Zr K": 14,
+  "Ag K": 3,
+  "Ba K": 1,
+  "Ce K": 1,
+  "Er K": 1,
+  "Eu K": 1,
+  "In K": 4,
+  "Ir K": 1,
+  "Ir L3": 3,
+  "La K": 1,
+  "Nd K": 2,
+  "Pd K": 2,
+  "Re K": 3,
+  "Sm K": 1,
+  "Sn K": 9,
+  "Ta K": 2,
+  "Tb K": 1,
+  "W K": 1,
+  "Xe K": 1,
+  "Hg L3": 14,
+  "Al K": 1,
+  "unknown": 1,
+  "Sn L3": 1,
+  "B K": 9,
+  "Ba L3": 8,
+  "Ca K": 16,
+  "Fe L2": 5,
+  "I K": 10,
+  "Mo L3": 68,
+  "P K": 66,
+  "P L2": 11,
+  "Rh K": 2,
+  "S L2": 4,
+  "Sb K": 4,
+  "Th L3": 12,
+  "U L3": 13
+ },
+ "xas_target_edges": {
+  "Pt L3": 154,
+  "Co K": 177,
+  "Ni K": 215,
+  "Fe K": 267,
+  "Cu K": 141
+ },
+ "xas_target_edges_by_source": {
+  "Pt L3": {
+   "xaslib": 1,
+   "bmm_standards_nist": 6,
+   "lisa_xasdb": 2,
+   "mdr_xafs_db": 34,
+   "zenodo_17131699_PtCo_PtNi_HTPEM": 27,
+   "zenodo_8041702_PtFeOx_operando_XAS": 4,
+   "ucl_rdr_19063886": 10,
+   "cardiff_27052390": 18,
+   "figshare_30323788": 12,
+   "mendeley_9bhtr2w54w": 21,
+   "mendeley_w8bxyj33hr": 8,
+   "zenodo_21874842_alphaPtO2": 11
+  },
+  "Co K": {
+   "xaslib": 1,
+   "bmm_standards_nist": 4,
+   "lisa_xasdb": 11,
+   "cls_xasdb": 46,
+   "mdr_xafs_db": 98,
+   "zenodo_17131699_PtCo_PtNi_HTPEM": 14,
+   "zenodo_4746349_CoO_assemblies": 3
+  },
+  "Ni K": {
+   "xaslib": 11,
+   "bmm_standards_nist": 7,
+   "lisa_xasdb": 5,
+   "cls_xasdb": 70,
+   "mdr_xafs_db": 108,
+   "zenodo_17131699_PtCo_PtNi_HTPEM": 7,
+   "zenodo_16948020_Ni3Ga": 7
+  },
+  "Fe K": {
+   "xaslib": 23,
+   "bmm_standards_nist": 38,
+   "lisa_xasdb": 25,
+   "github_xraylarch_examples": 13,
+   "cls_xasdb": 80,
+   "mdr_xafs_db": 81,
+   "zenodo_8041702_PtFeOx_operando_XAS": 7
+  },
+  "Cu K": {
+   "xaslib": 8,
+   "bmm_standards_nist": 6,
+   "lisa_xasdb": 17,
+   "github_xraylarch_examples": 9,
+   "cls_xasdb": 21,
+   "mdr_xafs_db": 80
+  }
+ },
+ "xas_target_edges_by_sample_type": {
+  "Pt L3": {
+   "foil": 23,
+   "compound": 36,
+   "alloy": 2,
+   "other": 44,
+   "catalyst": 49
+  },
+  "Co K": {
+   "foil": 28,
+   "compound": 137,
+   "catalyst": 12
+  },
+  "Ni K": {
+   "compound": 165,
+   "foil": 23,
+   "alloy": 16,
+   "other": 1,
+   "catalyst": 10
+  },
+  "Fe K": {
+   "foil": 26,
+   "compound": 226,
+   "alloy": 8,
+   "catalyst": 7
+  },
+  "Cu K": {
+   "foil": 34,
+   "compound": 104,
+   "alloy": 2,
+   "other": 1
+  }
+ },
+ "xas_time_series_files": [
+  [
+   "z8041702_FeK_PtFe_SiO2_400_H2_sam_matrix_Both",
+   "Fe K",
+   "1197 spectra"
+  ],
+  [
+   "z8041702_FeK_PtFe_SiO2_400_PROX_sam_matrix_Both",
+   "Fe K",
+   "3108 spectra"
+  ],
+  [
+   "z8041702_FeK_xuPtFe_sam_matrix_Both_trans",
+   "Fe K",
+   "598 spectra"
+  ],
+  [
+   "z8041702_Pt_Cell_L_edge_afterTPR_H2_40oC_sam_matrix_Both",
+   "Pt L3",
+   "762 spectra"
+  ],
+  [
+   "z8041702_PtFe3_pureH2_H2_sam_matrix_Both",
+   "Fe K",
+   "837 spectra"
+  ],
+  [
+   "z8041702_PtFe3_pureH2_PROX_sam_matrix_Both",
+   "Fe K",
+   "838 spectra"
+  ],
+  [
+   "z8041702_PtFe4_pureH2_H2_sam_matrix_Both",
+   "Fe K",
+   "838 spectra"
+  ],
+  [
+   "z8041702_PtFe_Al2O3_pureH2_H2_sam_matrix_Both",
+   "Pt L3",
+   "597 spectra"
+  ],
+  [
+   "z8041702_PtFe_SiO2_40_H2_sam_matrix_Both",
+   "Pt L3",
+   "598 spectra"
+  ],
+  [
+   "z16948020_NiGa_SiO2_DP_in_situ_Ga_K-edge_XANES",
+   "Ga K",
+   "22 column pairs"
+  ],
+  [
+   "z16948020_NiGa_SiO2_DP_in_situ_Ni_Kedge_XANES",
+   "Ni K",
+   "23 column pairs"
+  ],
+  [
+   "z16948020_Ga_SiO2_DP_in_situ_H2_treatment_cooling_XANES",
+   "Ga K",
+   "18 column pairs"
+  ],
+  [
+   "z16948020_Ga_SiO2_DP_in_situ_H2_treatment_heating_XANES",
+   "Ga K",
+   "34 column pairs"
+  ]
+ ],
+ "xas_x_kind": {
+  "energy_eV": 2455,
+  "k": 14
+ },
+ "xrd_pt_related": 99,
+ "xrd_pt_related_by_source": {
+  "zenodo_17131699_PtCo_PtNi_HTPEM": 59,
+  "zenodo_15310405_PtAC": 6,
+  "zenodo_4952884_PtPd_dendrimer": 8,
+  "zenodo_14186519_GO_PtNP": 3,
+  "zenodo_21028650_GOPt10": 1,
+  "zenodo_21028904_GOPt20": 1,
+  "dataversenl_7M9Q6K": 6,
+  "zenodo_17886350_Pt_TMS": 9,
+  "cardiff_27052390": 6
+ },
+ "xrd_other": 92588,
+ "xrd_wavelengths": [
+  [
+   "1.2398 A",
+   68322
+  ],
+  [
+   "CuKa 1.5406",
+   13145
+  ],
+  [
+   "1.2084 A",
+   9568
+  ],
+  [
+   "unknown",
+   831
+  ],
+  [
+   "CuKa 1.5418",
+   87
+  ],
+  [
+   "MoKa 0.7093",
+   73
+  ],
+  [
+   "CoKa 1.789",
+   69
+  ],
+  [
+   "CuKa 1.5405",
+   66
+  ],
+  [
+   "0.82599 A",
+   32
+  ],
+  [
+   "0.41421 A",
+   25
+  ],
+  [
+   "unknown (not stated in deposit)",
+   20
+  ],
+  [
+   "CuKa 1.5419",
+   16
+  ],
+  [
+   "0.41244 A",
+   11
+  ],
+  [
+   "0.3685 A",
+   10
+  ],
+  [
+   "2.0785 A",
+   10
+  ],
+  [
+   "0.49527 A",
+   9
+  ],
+  [
+   "0.72768 A",
+   9
+  ],
+  [
+   "0.50021 A",
+   9
+  ],
+  [
+   "lab source (wavelength not stated; x given as Q)",
+   8
+  ],
+  [
+   "0.82715 A",
+   8
+  ],
+  [
+   "0.41383 A",
+   8
+  ],
+  [
+   "1.5482 A",
+   8
+  ],
+  [
+   "0.77491 A",
+   8
+  ],
+  [
+   "1.622 A",
+   7
+  ],
+  [
+   "2.0775 A",
+   6
+  ]
+ ],
+ "xrd_x_kind": {
+  "two_theta_deg": 92679,
+  "q": 8
+ },
+ "pdf_pt_related": 3,
+ "pdf_pt_related_by_source": {
+  "github_DeepStruc": 3
+ },
+ "pdf_other": 433,
+ "pdf_wavelengths": [
+  [
+   "unknown",
+   249
+  ],
+  [
+   "see source (synchrotron/lab; not in file)",
+   106
+  ],
+  [
+   "synchrotron (see .cfg / article)",
+   55
+  ],
+  [
+   "see header/article (synchrotron)",
+   11
+  ],
+  [
+   "0.1 A",
+   5
+  ],
+  [
+   "0.0354240551429 A",
+   5
+  ],
+  [
+   "synchrotron x-ray (wavelength in header)",
+   3
+  ],
+  [
+   "0.18597 A",
+   1
+  ],
+  [
+   "neutron (TOF)",
+   1
+  ]
+ ],
+ "pdf_x_kind": {
+  "r_A": 133,
+  "q": 225,
+  "two_theta_deg": 78
+ },
+ "xrd_cu_ka": 13325,
+ "opxrd_cu_ka": 13288,
+ "pdf_by_x_kind_pt": {
+  "r_A": 3
+ },
+ "licences": [
+  [
+   "CC-BY-4.0",
+   94453
+  ],
+  [
+   "NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",
+   359
+  ],
+  [
+   "CC0-1.0",
+   297
+  ],
+  [
+   "Apache-2.0 (repository); same experiment deposited on Zenodo 10.5281/zenodo.18427148 under CC-BY-4.0",
+   250
+  ],
+  [
+   "CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain')",
+   177
+  ],
+  [
+   "MIT (xraylarch repository licence covering example data)",
+   42
+  ],
+  [
+   "Apache-2.0 (repository licence covering included data)",
+   10
+  ],
+  [
+   "DiffPy-CMI licence (BSD-like, redistribution permitted; repository licence covering example data)",
+   4
+  ]
+ ],
+ "n_excluded_duplicates": 701
+}

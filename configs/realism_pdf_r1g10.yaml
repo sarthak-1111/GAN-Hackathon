@@ -1,0 +1,22 @@
+# Second PDF realism run: identical to realism_pdf.yaml except R1 gamma 10 (run 1, gamma 1: discriminator hinge loss
+# 0.03-0.08 from step 8000, as in EXAFS run 1). Runs on GPU 3 after run 1 ends (a 6 GiB cap on GPU 2 ran out of memory).
+# Selection between the runs uses the validation split only.
+# Realism GAN for pdf (forge.realism.train). Spec values: Adam lr 2e-4 (G) / 4e-4 (D), betas (0.0, 0.99), batch 128,
+# EMA 0.999, checkpoints every 2,000 steps, up to 60,000 steps with early stopping on the validation C2ST.
+seed: 2026
+gpu: 3
+gpu_mem_gib: 9.0
+sim_data: artifacts/data
+batch: 128
+lr_g: 0.0002
+lr_d: 0.0004
+ema: 0.999
+max_steps: 60000
+ckpt_every: 2000
+patience: 6
+r1_gamma: 10.0
+r1_every: 4
+w_pres: 10.0
+w_mag: 0.05
+sim_batch: 64
+out_name: realism_pdf_r1g10

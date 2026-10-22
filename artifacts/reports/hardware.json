@@ -1,0 +1,108 @@
+{
+  "timestamp": "2026-10-22T02:38:57",
+  "host": "NEDOGPU-WS3",
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "3.12.15",
+  "torch": "2.14.1+cu126",
+  "cuda_runtime": "12.6",
+  "cudnn": 91002,
+  "gpus": [
+    {
+      "index": 0,
+      "name": "NVIDIA RTX A6000",
+      "mem_total_mib": 49140,
+      "mem_used_mib": 1134,
+      "driver": "566.03",
+      "bus": "00000000:47:00.0",
+      "driver_model": "WDDM",
+      "compute_cap": "8.6",
+      "mem_free_physical_gib": 46.9
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA RTX A6000",
+      "mem_total_mib": 49140,
+      "mem_used_mib": 42486,
+      "driver": "566.03",
+      "bus": "00000000:5E:00.0",
+      "driver_model": "WDDM",
+      "compute_cap": "8.6",
+      "mem_free_physical_gib": 6.5
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA RTX A6000",
+      "mem_total_mib": 49140,
+      "mem_used_mib": 42036,
+      "driver": "566.03",
+      "bus": "00000000:75:00.0",
+      "driver_model": "WDDM",
+      "compute_cap": "8.6",
+      "mem_free_physical_gib": 6.9
+    },
+    {
+      "index": 3,
+      "name": "NVIDIA RTX A6000",
+      "mem_total_mib": 49140,
+      "mem_used_mib": 37514,
+      "driver": "566.03",
+      "bus": "00000000:A3:00.0",
+      "driver_model": "WDDM",
+      "compute_cap": "8.6",
+      "mem_free_physical_gib": 11.4
+    }
+  ],
+  "compute_apps": "2660, [Insufficient Permissions], 00000000:47:00.0, [N/A]\n9192, C:\\Windows\\explorer.exe, 00000000:47:00.0, [N/A]\n8976, C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe, 00000000:47:00.0, [N/A]\n12104, C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe, 00000000:47:00.0, [N/A]\n11748, C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26072.257.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe, 00000000:47:00.0, [N/A]\n12240, C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe, 00000000:47:00.0, [N/A]\n4684, C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe, 00000000:47:00.0, [N/A]\n10136, C:\\Program Files\\TeamViewer\\TeamViewer.exe, 00000000:47:00.0, [N/A]\n11956, C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.53\\msedgewebview2.exe, 00000000:47:00.0, [N/A]\n8392, C:\\Users\\NEDO-WS3\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe, 00000000:47:00.0, [N/A]\n26996, C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.62\\msedgewebview2.exe, 00000000:47:00.0, [N/A]\n19416, C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe, 00000000:47:00.0, [N/A]\n27100, C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe, 00000000:47:00.0, [N/A]\n33212, C:\\Users\\NEDO-WS3\\.claude-science\\electron\\42.10.0\\claude-science.exe, 00000000:47:00.0, [N/A]\n26892, C:\\Program Files\\WindowsApps\\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\\ms-teams.exe, 00000000:47:00.0, [N/A]\n35148, C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\154.0.4258.62\\msedgewebview2.exe, 00000000:47:00.0, [N/A]\n11696, C:\\Program Files\\WindowsApps\\MSTeams_26260.1701.5139.3736_x64__8wekyb3d8bbwe\\ms-teams.exe, 00000000:47:00.0, [N/A]\n13256, C:\\Program Files\\HP\\Sure Click\\servers\\BrConsole.exe, 00000000:47:00.0, [N/A]\n34796, [Insufficient Permissions], 00000000:47:00.0, [N/A]\n12080, [Insufficient Permissions], 00000000:47:00.0, [N/A]\n15904, C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe, 00000000:47:00.0, [N/A]\n36376, [Insufficient Permissions], 00000000:47:00.0, [N/A]\n30540, [Insufficient Permissions], 00000000:47:00.0, [N/A]\n26112, C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE, 00000000:47:00.0, [N/A]\n31596, C:\\Users\\NEDO-WS3\\AppData\\Local\\Programs\\Ollama\\lib\\ollama\\llama-server.exe, 00000000:5E:00.0, [N/A]\n31596, C:\\Users\\NEDO-WS3\\AppData\\Local\\Programs\\Ollama\\lib\\ollama\\llama-server.exe, 00000000:75:00.0, [N/A]\n31596, C:\\Users\\NEDO-WS3\\AppData\\Local\\Programs\\Ollama\\lib\\ollama\\llama-server.exe, 00000000:A3:00.0, [N/A]",
+  "bf16": true,
+  "nccl": false,
+  "gloo": true,
+  "torch_devices": [
+    {
+      "index": 0,
+      "name": "NVIDIA RTX A6000",
+      "cc": "8.6",
+      "sms": 84,
+      "total_gib": 48.0,
+      "reported_free_gib": 46.4
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA RTX A6000",
+      "cc": "8.6",
+      "sms": 84,
+      "total_gib": 48.0,
+      "reported_free_gib": 46.4
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA RTX A6000",
+      "cc": "8.6",
+      "sms": 84,
+      "total_gib": 48.0,
+      "reported_free_gib": 46.4
+    },
+    {
+      "index": 3,
+      "name": "NVIDIA RTX A6000",
+      "cc": "8.6",
+      "sms": 84,
+      "total_gib": 48.0,
+      "reported_free_gib": 46.4
+    }
+  ],
+  "cpu": {
+    "model": "Intel64 Family 6 Model 143 Stepping 8, GenuineIntel",
+    "physical": 16,
+    "logical": 32
+  },
+  "ram_gib": 495.6,
+  "ram_available_gib": 432.3,
+  "disk_free_gib": 2320.9,
+  "allreduce": {
+    "ok": true,
+    "seconds_per_64MiB_allreduce": 0.2944961000233889,
+    "algbw_GBps": 0.2278769192348225,
+    "method": "gloo, CUDA tensors staged through pinned host memory",
+    "direct_cuda_gloo": "crashes with 0xC0000005 (access violation) on this Windows build; tested 2026-10-22 with torch 2.14.1+cu126"
+  }
+}

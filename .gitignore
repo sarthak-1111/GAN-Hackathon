@@ -1,0 +1,20 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+runs/
+artifacts/data/shards/
+artifacts/data/real_raw/
+artifacts/data/work/
+
+# Large or regenerable outputs (artifacts/README.md says how to rebuild each one)
+artifacts/data/pilot/shards/
+artifacts/data/contract_export/
+artifacts/data/contract_export_realism/
+artifacts/data/test_outputs/
+artifacts/models/work/
+
+# link to artifacts/reports (committed there)
+/reports

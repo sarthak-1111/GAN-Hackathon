@@ -1,0 +1,88 @@
+{
+ "variant": "a",
+ "seed": 1,
+ "decision": {
+  "ship": "a",
+  "primary_ok": false,
+  "primary": {
+   "set": "A_real",
+   "metric": "composition_family_acc",
+   "a": 0.09523809523809523,
+   "a_spread": 0.0,
+   "b": 0.16666666666666666,
+   "b_spread": 0.23809523809523808,
+   "run_to_run": 0.23809523809523808,
+   "lower_is_better": false
+  },
+  "losses_elsewhere": [
+   [
+    "B_fullfeff_harsh",
+    "composition_acc"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "lattice_mae"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "n1_m_mae"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "n1_pt_mae"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "ordered_acc"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "r1_m_mae"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "r1_pt_mae"
+   ],
+   [
+    "B_fullfeff_harsh",
+    "size_mae"
+   ],
+   [
+    "C_test_harsh",
+    "composition_acc"
+   ],
+   [
+    "C_test_harsh",
+    "fault_auroc"
+   ],
+   [
+    "C_test_harsh",
+    "lattice_mae"
+   ],
+   [
+    "C_test_harsh",
+    "n1_m_mae"
+   ],
+   [
+    "C_test_harsh",
+    "n1_pt_mae"
+   ],
+   [
+    "C_test_harsh",
+    "ordered_acc"
+   ],
+   [
+    "C_test_harsh",
+    "r1_m_mae"
+   ],
+   [
+    "C_test_harsh",
+    "r1_pt_mae"
+   ],
+   [
+    "C_test_harsh",
+    "size_mae"
+   ]
+  ]
+ }
+}

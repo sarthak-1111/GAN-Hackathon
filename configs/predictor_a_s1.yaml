@@ -1,0 +1,17 @@
+# Multi-technique predictor, variant (a): classical baseline augmentation, seed 1.
+name: predictor_a_s1
+variant: a
+seed: 100
+data_dir: artifacts/data
+realism_dir: artifacts/models
+out_dir: artifacts/models/work/predictor_a_s1
+gpus: [1]
+gpu_mem_gib: {0: 20.0, 1: 2.5, 2: 2.5, 3: 3.0}
+batch_per_gpu: 128
+lr: 0.001
+weight_decay: 0.01
+steps: 12000
+warmup: 500
+eval_every: 1000
+tech_dropout: 0.3
+meta_dropout: 0.5

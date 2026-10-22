@@ -1,0 +1,258 @@
+{
+ "shipped_variant": "a",
+ "shipped_seed": 1,
+ "commands": [
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_clean_test_000.h5 --out artifacts\\data\\test_outputs\\predictions\\full_clean_test_000.json",
+   "exit_code": 0,
+   "seconds": 18.8,
+   "stdout_tail": [
+    "wrote 2500 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_clean_test_000.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_clean_test_000.h5 --out artifacts\\data\\test_outputs\\predictions\\full_clean_test_000_spectra_only.json --no-metadata",
+   "exit_code": 0,
+   "seconds": 17.4,
+   "stdout_tail": [
+    "wrote 2500 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_clean_test_000_spectra_only.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_clean_test_001.h5 --out artifacts\\data\\test_outputs\\predictions\\full_clean_test_001.json",
+   "exit_code": 0,
+   "seconds": 17.4,
+   "stdout_tail": [
+    "wrote 1800 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_clean_test_001.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_clean_test_001.h5 --out artifacts\\data\\test_outputs\\predictions\\full_clean_test_001_spectra_only.json --no-metadata",
+   "exit_code": 0,
+   "seconds": 18.7,
+   "stdout_tail": [
+    "wrote 1800 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_clean_test_001_spectra_only.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_fault_test_000.h5 --out artifacts\\data\\test_outputs\\predictions\\full_fault_test_000.json",
+   "exit_code": 0,
+   "seconds": 16.8,
+   "stdout_tail": [
+    "wrote 751 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_fault_test_000.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\shards\\full_fault_test_000.h5 --out artifacts\\data\\test_outputs\\predictions\\full_fault_test_000_spectra_only.json --no-metadata",
+   "exit_code": 0,
+   "seconds": 17.0,
+   "stdout_tail": [
+    "wrote 751 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\full_fault_test_000_spectra_only.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/predict.py artifacts\\data\\contract_export\\samples --out artifacts\\data\\test_outputs\\predictions\\contract_export.json",
+   "exit_code": 0,
+   "seconds": 609.9,
+   "stdout_tail": [
+    "wrote 5051 predictions to D:\\GAN\\artifacts\\data\\test_outputs\\predictions\\contract_export.json"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/realism_infer.py artifacts\\data\\shards\\full_clean_test_000.h5 --out artifacts\\data\\test_outputs\\realism",
+   "exit_code": 0,
+   "seconds": 20.5,
+   "stdout_tail": [
+    "wrote D:\\GAN\\artifacts\\data\\test_outputs\\realism\\full_clean_test_000_realism.h5 (2500 samples, techniques ['exafs_m', 'exafs_pt', 'pdf', 'xrd'])"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/realism_infer.py artifacts\\data\\shards\\full_clean_test_001.h5 --out artifacts\\data\\test_outputs\\realism",
+   "exit_code": 0,
+   "seconds": 18.7,
+   "stdout_tail": [
+    "wrote D:\\GAN\\artifacts\\data\\test_outputs\\realism\\full_clean_test_001_realism.h5 (1800 samples, techniques ['exafs_m', 'exafs_pt', 'pdf', 'xrd'])"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/realism_infer.py artifacts\\data\\shards\\full_fault_test_000.h5 --out artifacts\\data\\test_outputs\\realism",
+   "exit_code": 0,
+   "seconds": 16.5,
+   "stdout_tail": [
+    "wrote D:\\GAN\\artifacts\\data\\test_outputs\\realism\\full_fault_test_000_realism.h5 (751 samples, techniques ['exafs_m', 'exafs_pt', 'pdf', 'xrd'])"
+   ]
+  },
+  {
+   "command": "python artifacts/scripts/realism_infer.py artifacts\\data\\test_outputs\\contract_sample_input --out artifacts\\data\\test_outputs\\realism_contract_sample",
+   "exit_code": 0,
+   "seconds": 50.7,
+   "stdout_tail": [
+    "wrote 200 sample directories to D:\\GAN\\artifacts\\data\\test_outputs\\realism_contract_sample\\samples"
+   ]
+  }
+ ],
+ "shards_with_metadata": {
+  "n": 5051,
+  "composition_acc": 1.0,
+  "ordered_acc": 1.0,
+  "size_mae_nm": 0.0996454007753498,
+  "lattice_mae_A": 0.004232061450756607,
+  "n1_pt_mae": 0.09973698127201301,
+  "r1_pt_mae_A": 0.002103518889960949,
+  "n1_m_mae": 0.10984712419827417,
+  "r1_m_mae_A": 0.0017770788465602812,
+  "fault_auroc": {
+   "pt_oxide_shell": 0.9992087728541884,
+   "pt_skin": 0.9999548704585947,
+   "mixed_oxidation": 0.6227528259579473,
+   "low_dopant": 0.8749441068939214,
+   "multi_domain": 0.9999843027682068,
+   "wrong_phase_candidate": 1.0,
+   "mislabeled_metadata": 1.0
+  }
+ },
+ "shards_spectra_only": {
+  "n": 5051,
+  "composition_acc": 1.0,
+  "ordered_acc": 1.0,
+  "size_mae_nm": 0.09784879503890184,
+  "lattice_mae_A": 0.004126556087064166,
+  "n1_pt_mae": 0.09976497624090841,
+  "r1_pt_mae_A": 0.001985522958864624,
+  "n1_m_mae": 0.1099261982564127,
+  "r1_m_mae_A": 0.0016964740554336547,
+  "fault_auroc": {
+   "pt_oxide_shell": 0.9992096689211712,
+   "pt_skin": 0.9999558515355816,
+   "mixed_oxidation": 0.6249951138734013,
+   "low_dopant": 0.8695893281429461,
+   "multi_domain": 0.9999784163062844,
+   "wrong_phase_candidate": 0.4981509079869736,
+   "mislabeled_metadata": 0.518280753240401
+  }
+ },
+ "contract_export_with_metadata": {
+  "n": 5051,
+  "composition_acc": 1.0,
+  "ordered_acc": 1.0,
+  "size_mae_nm": 0.10483705095752967,
+  "lattice_mae_A": 0.004410185504596886,
+  "n1_pt_mae": 0.10524316039280804,
+  "r1_pt_mae_A": 0.002101711888031024,
+  "n1_m_mae": 0.1146465016396804,
+  "r1_m_mae_A": 0.001752807896260417,
+  "fault_auroc": {
+   "pt_oxide_shell": 0.9993476632365222,
+   "pt_skin": 0.9994456915023036,
+   "mixed_oxidation": 0.6177574278008167,
+   "low_dopant": 0.8166760917786721,
+   "multi_domain": 0.9999107219941764,
+   "wrong_phase_candidate": 1.0,
+   "mislabeled_metadata": 1.0
+  }
+ },
+ "realism_contract_scope": "the first 200 test samples (the realism layer is not shipped)",
+ "realism_contract_n": 200,
+ "realism": {
+  "xrd": {
+   "n": 5051,
+   "unit": "deg 2theta",
+   "shift_median": 0.0,
+   "shift_p95": 0.0,
+   "shift_max": 0.07817840576171875,
+   "bg_rms_rel": 0.0031729531474411488,
+   "gain_rms_dev": 0.0020166432950645685,
+   "noise_scale_rel": 0.000599503458943218,
+   "above_one_step": [
+    {
+     "sample_id": "F017126",
+     "shift": 0.07817459106445312,
+     "second_max_ratio": 0.5592880845069885,
+     "particle": "Pt icosahedron, 2.1 nm, 303 atoms"
+    },
+    {
+     "sample_id": "F018425",
+     "shift": 0.07817840576171875,
+     "second_max_ratio": 0.55245441198349,
+     "particle": "Pt icosahedron, 2.1 nm, 304 atoms"
+    },
+    {
+     "sample_id": "F021176",
+     "shift": 0.07817459106445312,
+     "second_max_ratio": 0.5685291290283203,
+     "particle": "Pt icosahedron, 2.1 nm, 307 atoms"
+    },
+    {
+     "sample_id": "F022518",
+     "shift": 0.07817459106445312,
+     "second_max_ratio": 0.5206246972084045,
+     "particle": "Pt icosahedron, 2.1 nm, 303 atoms"
+    },
+    {
+     "sample_id": "F032147",
+     "shift": 0.07817459106445312,
+     "second_max_ratio": 0.4993045926094055,
+     "particle": "Pt icosahedron, 2.1 nm, 306 atoms"
+    },
+    {
+     "sample_id": "F047901",
+     "shift": 0.07817459106445312,
+     "second_max_ratio": 0.5906980633735657,
+     "particle": "Pt icosahedron, 2.1 nm, 303 atoms"
+    },
+    {
+     "sample_id": "F048188",
+     "shift": 0.07817840576171875,
+     "second_max_ratio": 0.5529424548149109,
+     "particle": "Pt icosahedron, 2.1 nm, 305 atoms"
+    },
+    {
+     "sample_id": "F049627",
+     "shift": 0.07817840576171875,
+     "second_max_ratio": 0.5089817643165588,
+     "particle": "Pt icosahedron, 2.1 nm, 305 atoms"
+    }
+   ]
+  },
+  "pdf": {
+   "n": 5051,
+   "unit": "A",
+   "shift_median": 0.0,
+   "shift_p95": 0.0,
+   "shift_max": 0.020000219345092773,
+   "bg_rms_rel": 0.0009126106160692871,
+   "gain_rms_dev": 0.0009364011348225176,
+   "noise_scale_rel": 0.0021181402262300253,
+   "above_one_step": []
+  },
+  "exafs_pt": {
+   "n": 5051,
+   "unit": "A",
+   "shift_median": 0.0,
+   "shift_p95": 0.0,
+   "shift_max": 0.6899999999999995,
+   "bg_rms_rel": 0.00401653628796339,
+   "gain_rms_dev": 1.599630923010409e-05,
+   "noise_scale_rel": 0.01576472818851471,
+   "above_one_step": [
+    {
+     "sample_id": "F040786",
+     "shift": 0.6899999999999995,
+     "second_max_ratio": 0.9972393364498113,
+     "particle": "Pt icosahedron, 2.1 nm, 302 atoms"
+    }
+   ]
+  },
+  "exafs_m": {
+   "n": 4355,
+   "unit": "A",
+   "shift_median": 0.0,
+   "shift_p95": 0.0,
+   "shift_max": 0.010000000000000231,
+   "bg_rms_rel": 0.003522750223055482,
+   "gain_rms_dev": 1.3908572327636648e-05,
+   "noise_scale_rel": 0.011754985898733139,
+   "above_one_step": []
+  }
+ }
+}

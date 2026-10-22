@@ -1,0 +1,16 @@
+# 2,000-sample pilot (stage 1). Same generator and balancing as the full build.
+name: pilot
+id_prefix: P
+seed: 20261022
+n_total: 2000
+fault_fraction: 0.15
+splits: {train: 0.8, val: 0.1, test: 0.1}
+family_sphere_bin_nm: 0.25
+shard_size: 1000
+cpu_workers: 28
+# GPU work queue: one worker per GPU; memory caps keep GPUs 1-3 below the physical headroom left by the
+# resident Ollama server (see artifacts/reports/hardware.md)
+gpus: [0, 1, 2, 3]
+gpu_mem_gib: {0: 24.0, 1: 4.5, 2: 4.5, 3: 8.0}
+work_dir: artifacts/data/work/pilot
+out_dir: artifacts/data/pilot

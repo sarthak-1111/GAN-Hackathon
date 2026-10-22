@@ -1,0 +1,18 @@
+# Realism GAN for xrd (forge.realism.train). Spec values: Adam lr 2e-4 (G) / 4e-4 (D), betas (0.0, 0.99), batch 128,
+# EMA 0.999, checkpoints every 2,000 steps, up to 60,000 steps with early stopping on the validation C2ST.
+seed: 2026
+gpu: 0
+gpu_mem_gib: 14.0
+sim_data: artifacts/data
+batch: 128
+lr_g: 0.0002
+lr_d: 0.0004
+ema: 0.999
+max_steps: 60000
+ckpt_every: 2000
+patience: 6
+r1_gamma: 1.0
+r1_every: 4
+w_pres: 10.0
+w_mag: 0.05
+sim_batch: 64

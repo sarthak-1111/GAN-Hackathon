@@ -1,0 +1,86 @@
+# Instrument and sample-condition sampling for Concord Forge simulations.
+# Every simulated sample draws its parameters from these ranges (uniform unless stated) with a per-sample seed;
+# the drawn values are stored with the sample. Ranges are typical of laboratory diffractometers, synchrotron
+# powder / total-scattering beamlines and XAFS beamlines.
+
+grids:
+  xrd_cu:            # laboratory Cu K-alpha pattern, 2theta in degrees (model grid)
+    two_theta_min: 10.0
+    two_theta_max: 100.0
+    n: 2048
+  xrd_sync:          # synchrotron pattern stored on a Q grid (A^-1); 2theta follows from the sampled wavelength
+    q_min: 0.8
+    q_max: 12.0
+    n: 2048
+  pdf:               # G(r)
+    r_min: 0.5
+    r_step: 0.02
+    n: 3072          # 0.50 ... 61.92 A
+  exafs_store:       # chi(k) as stored (A^-1)
+    k_min: 0.0
+    k_step: 0.05
+    n: 321           # 0 ... 16 A^-1
+  exafs_model:       # chi(k) window used by the realism model and predictor
+    k_min: 2.0
+    k_step: 0.05
+    n: 256           # 2.0 ... 14.75 A^-1
+  xafs_mu:           # mu(E) relative energy grid (eV above E0), non-uniform: fine XANES, coarser EXAFS
+    e_rel_min: -150.0
+    e_rel_xanes_end: 60.0
+    xanes_step: 0.5
+    e_rel_max: 900.0
+
+sample:
+  u_iso_pt: [0.0035, 0.0075]        # A^2, per-direction mean-square displacement of Pt (room temperature range)
+  u_ratio_m: [1.0, 1.25]            # U(M) / U(Pt) for the lighter alloying element
+  u_iso_o: [0.008, 0.02]            # A^2, oxygen in oxide shells
+  delta2: [2.0, 4.0]                # A^2, correlated-motion sharpening sigma^2(r) = (U_a+U_b)(1 - delta2/r^2)
+  correlation_floor: 0.35           # lower bound on (1 - delta2/r^2)
+  strain: [-0.02, 0.02]             # isotropic lattice strain
+  vacancy_fraction: [0.0, 0.03]
+  surface_relax: [-0.03, 0.005]     # radial displacement of surface atoms, fraction of the NN distance
+  static_sigma: [0.0, 0.03]         # A, random static displacement (bulk); surface atoms get 2x
+  diameter_nm: [1.5, 8.0]
+  size_bins_nm: [1.5, 2.5, 4.0, 5.5, 8.0]
+
+xrd_cu:
+  wavelength_ka1: 1.540562
+  wavelength_ka2: 1.544390
+  ka2_ratio: [0.45, 0.52]           # I(Ka2)/I(Ka1)
+  monochromator: [none, graphite]   # graphite (002) secondary monochromator, 2theta_m = 26.57 deg
+  caglioti_U: [0.0005, 0.008]       # deg^2
+  caglioti_V: [-0.004, 0.0]
+  caglioti_W: [0.001, 0.008]
+  lorentz_fraction: [0.0, 0.5]      # pseudo-Voigt mixing of the instrument profile
+  counts_max: [2000.0, 100000.0]        # peak counts used for Poisson noise in augmentation / export
+
+xrd_sync:
+  wavelength: [0.15, 0.75]          # A
+  fwhm_q0: [0.004, 0.02]            # A^-1, constant part of the Gaussian Q resolution
+  fwhm_q1: [0.0, 0.002]             # dimensionless, Q-proportional part
+  counts_max: [20000.0, 1000000.0]
+
+pdf:
+  wavelength: [0.12, 0.22]          # A (RA-PDF beamlines, 56-100 keV)
+  qmin: [0.5, 1.0]
+  qmax: [20.0, 30.0]
+  qdamp: [0.02, 0.06]
+  qbroad: [0.0, 0.03]
+  q_step: 0.01
+  noise_rel: [0.002, 0.02]          # relative noise level on F(Q) used in augmentation / export
+
+exafs:
+  edges:
+    Pt: {edge: L3, e0: 11564.0}
+    Co: {edge: K, e0: 7709.0}
+    Ni: {edge: K, e0: 8333.0}
+    Fe: {edge: K, e0: 7112.0}
+    Cu: {edge: K, e0: 8979.0}
+  s02: {Pt: 0.85, Co: 0.80, Ni: 0.80, Fe: 0.80, Cu: 0.85}
+  rmax_ss: 6.0                      # A, single scattering from the particle's distance distribution up to here
+  rmax_ms: 6.0                      # A, half path length cut for multiple-scattering paths from bulk FEFF
+  noise_chi: [0.0005, 0.005]        # absolute chi(k) noise at k = 10 A^-1 (scaled ~k) for augmentation / export
+  mu_edge_width_ev: [0.8, 2.0]      # arctan edge width
+  white_line: {Pt: [0.25, 0.45], Co: [0.05, 0.2], Ni: [0.1, 0.3], Fe: [0.05, 0.2], Cu: [0.0, 0.1]}
+  white_line_per_ox: {Pt: 0.35, Co: 0.6, Ni: 0.6, Fe: 0.6, Cu: 0.5}   # added white-line height per unit oxidation state
+  edge_shift_per_ox: {Pt: 0.8, Co: 2.2, Ni: 2.0, Fe: 2.5, Cu: 2.0}     # eV per unit oxidation state

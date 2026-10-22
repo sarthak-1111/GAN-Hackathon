@@ -1,0 +1,14 @@
+# Full build (stage 2): 50,000 samples = 42,500 clean + 7,500 with planted faults.
+name: full
+id_prefix: F
+seed: 20261023
+n_total: 50000
+fault_fraction: 0.15
+splits: {train: 0.8, val: 0.1, test: 0.1}
+family_sphere_bin_nm: 0.25
+shard_size: 2500
+cpu_workers: 28
+gpus: [0, 1, 2, 3]
+gpu_mem_gib: {0: 24.0, 1: 4.5, 2: 4.5, 3: 8.0}
+work_dir: artifacts/data/work/full
+out_dir: artifacts/data

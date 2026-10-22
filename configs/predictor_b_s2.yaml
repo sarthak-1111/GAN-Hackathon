@@ -1,0 +1,17 @@
+# Multi-technique predictor, variant (b): GAN realism augmentation (classical fallback for techniques without a shipped realism model), seed 2.
+name: predictor_b_s2
+variant: b
+seed: 200
+data_dir: artifacts/data
+realism_dir: artifacts/models
+out_dir: artifacts/models/work/predictor_b_s2
+gpus: [3]
+gpu_mem_gib: {0: 20.0, 1: 4.0, 2: 4.0, 3: 7.0}
+batch_per_gpu: 128
+lr: 0.001
+weight_decay: 0.01
+steps: 12000
+warmup: 500
+eval_every: 1000
+tech_dropout: 0.3
+meta_dropout: 0.5

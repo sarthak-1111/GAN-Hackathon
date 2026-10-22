@@ -1,0 +1,26 @@
+{
+ "runs": [
+  {
+   "run": "realism_exafs",
+   "r1_gamma": 1.0,
+   "best_score": 1.730730525461054,
+   "best_step": 2000,
+   "last_step": 14000,
+   "best_val_c2st": 0.9165242165242166,
+   "best_val_feat_fd_ratio": 26.28412617873675,
+   "kept_as": "work/realism_exafs_run1"
+  },
+  {
+   "run": "realism_exafs_r1g10",
+   "r1_gamma": 10.0,
+   "best_score": 0.7420084647668345,
+   "best_step": 2000,
+   "last_step": 14000,
+   "best_val_c2st": 0.9316239316239316,
+   "best_val_feat_fd_ratio": 6.207690662858056,
+   "kept_as": "realism_exafs"
+  }
+ ],
+ "selected": "realism_exafs_r1g10",
+ "summary": "2 training runs (run with R1 gamma 1: best validation score 1.731 at step 2000 (C2ST 0.917), stopped at 14000; run with R1 gamma 10: best validation score 0.742 at step 2000 (C2ST 0.932), stopped at 14000); selected the run with R1 gamma 10 on the validation score"
+}

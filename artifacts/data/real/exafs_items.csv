@@ -1,0 +1,718 @@
+item_id,source,licence,edge,material,sample_type,split,twin
+xaslib_0042,xaslib,CC0-1.0,Co K,Co foil  Room Temperature,foil,val,COD 9008492
+xaslib_0275,xaslib,CC0-1.0,Cu K,Cu,foil,train,COD 4105040
+xaslib_0092,xaslib,CC0-1.0,Cu K,Cu,foil,train,COD 4105040
+xaslib_0086,xaslib,CC0-1.0,Cu K,Cu2S  cuprous sulfide,compound,eval,COD 9008287
+xaslib_0091,xaslib,CC0-1.0,Cu K,Cu,foil,train,COD 4105040
+xaslib_0274,xaslib,CC0-1.0,Fe K,Fe foil  Room Temperature,foil,train,COD 1100108
+xaslib_0104,xaslib,CC0-1.0,Fe K,Fe2O3 powder  Room Temperature,compound,train,COD 1546383
+xaslib_0105,xaslib,CC0-1.0,Fe K,Fe3C,compound,train,COD 1010936
+xaslib_0106,xaslib,CC0-1.0,Fe K,Fe3O4 powder  Room Temperature,compound,train,COD 1513301
+xaslib_0107,xaslib,CC0-1.0,Fe K,FeN powder  Room Temperature,compound,train,COD 1535284
+xaslib_0108,xaslib,CC0-1.0,Fe K,FeO powder  Room Temperature,compound,train,COD 1011169
+xaslib_0109,xaslib,CC0-1.0,Fe K,FeS2 powder  Room Temperature,compound,eval,COD 1564890
+xaslib_0111,xaslib,CC0-1.0,Fe K,Fe metal  Room Temperature,foil,train,COD 1100108
+xaslib_0112,xaslib,CC0-1.0,Fe K,Fe foil  Room Temperature,foil,train,COD 1100108
+xaslib_0113,xaslib,CC0-1.0,Fe K,Fe metal  Room Temperature,foil,train,COD 1100108
+xaslib_0143,xaslib,CC0-1.0,Ni K,Ni(OH)2   nickel hydroxide,compound,unused,FEFF twin unavailable: unparsable formula: __2 is an invalid formula!
+xaslib_0144,xaslib,CC0-1.0,Ni K,NiS   nickel sulfide,compound,train,COD 1010435
+xaslib_0146,xaslib,CC0-1.0,Ni K,NiS   nickel sulfide,compound,train,COD 1010435
+xaslib_0138,xaslib,CC0-1.0,Ni K,Ni2O3,compound,unused,FEFF twin unavailable: no COD entry
+xaslib_0140,xaslib,CC0-1.0,Ni K,Ni2O3,compound,unused,FEFF twin unavailable: no COD entry
+xaslib_0141,xaslib,CC0-1.0,Ni K,Ni(OH)2   nickel hydroxide,compound,unused,FEFF twin unavailable: unparsable formula: __2 is an invalid formula!
+xaslib_0139,xaslib,CC0-1.0,Ni K,Ni2O3,compound,unused,FEFF twin unavailable: no COD entry
+xaslib_0142,xaslib,CC0-1.0,Ni K,Ni(OH)2   nickel hydroxide,compound,unused,FEFF twin unavailable: unparsable formula: __2 is an invalid formula!
+xaslib_0145,xaslib,CC0-1.0,Ni K,NiS   nickel sulfide,compound,train,COD 1010435
+xaslib_0148,xaslib,CC0-1.0,Ni K,Ni foil  Room Temperature,foil,train,COD 4320486
+xaslib_0147,xaslib,CC0-1.0,Ni K,Ni foil  Room Temperature,foil,train,COD 4320486
+xaslib_0152,xaslib,CC0-1.0,Pt L3,Pt metal foil,foil,train,COD 1011103
+bmm_Co_K_Co3O4,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Co K,Co3O4,compound,eval,COD 1526734
+bmm_Co_K_CobaltAluminate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Co K,CoAlO3,compound,unused,FEFF twin unavailable: no COD entry
+bmm_Co_K_CobaltFoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Co K,Co foil,foil,train,COD 9008492
+bmm_Co_K_CoO,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Co K,CoO,compound,train,COD 1533087
+bmm_Cu_Covellite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,CuS,compound,train,COD 1010920
+bmm_Cu_Cu2O,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,Cu2O,compound,train,COD 1000063
+bmm_Cu_Cufoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,Cu metal,foil,train,COD 4105040
+bmm_Cu_CuO,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,CuO,compound,train,COD 1011148
+bmm_Cu_Dioptase,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,CuSi2(OH)2,compound,unused,FEFF twin unavailable: no COD entry
+bmm_Cu_K_CopperFoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Cu K,Cu foil,foil,train,COD 4105040
+bmm_Fe_Aegerine,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,NaFeSi2O6,compound,train,COD 9005438
+bmm_Fe_Almandine,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe3Al2Si3O12,compound,eval,COD 9001426
+bmm_Fe_Andradite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Ca3Fe2Si3O12,compound,eval,COD 2101484
+bmm_Fe_Augite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"(Ca,Na)(Mg,Fe,Ti,Al)(Si,Al)2O6",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Chondrodite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"(Mg,Fe)5(SiO)2(F,OH,O)2",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Cordierite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"(Mg,Fe)2Al3(Si5AlO18)",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Diadochite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe2(PO4)(SO4)OH.5H2O,compound,eval,FEFF twin unavailable: no COD entry
+bmm_Fe_Epidote,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Ca2Al2Fe(SiO4)(Si2O7)OOH,compound,train,COD 1529622
+bmm_Fe_Fayalite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe2SiO4,compound,train,COD 1000064
+bmm_Fe_Fe2Oxalate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FeC2O4(H2O)2,compound,train,COD 7218522
+bmm_Fe_Fe3Oxalate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe2(C2O4)3(H2O)6,compound,eval,FEFF twin unavailable: no COD entry
+bmm_Fe_Ferrihydrite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FeOOH,compound,train,COD 7720752
+bmm_Fe_ferro_Axinite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Ca2FeAl2BSi4O15OH,compound,train,COD 1537454
+bmm_Fe_Goethite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,alpha-FeOOH,compound,eval,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Hedenbergite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,CaFeSi2O6,compound,train,COD 9010855
+bmm_Fe_Hematite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,alpha-Fe2O3,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Hornblende,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Ca2Fe4Al0.75(Si7AlO22)OH,compound,eval,FEFF twin unavailable: no COD entry
+bmm_Fe_Ilmenite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FeTiO3,compound,val,COD 1011033
+bmm_Fe_Ilvaite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,CaFe(2+)2Fe(3+)(Si2O7)OOH,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_IronPhosphate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FePO4,compound,train,COD 1518114
+bmm_Fe_K_IronFoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe foil,foil,eval,COD 1100108
+bmm_Fe_Lepidocrocite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,gamma-FeOOH,compound,eval,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Ludwigite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Mg2FeBO5,compound,eval,FEFF twin unavailable: no COD entry
+bmm_Fe_Magnetite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe3O4,compound,train,COD 1513301
+bmm_Fe_Neotocite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"(Mn,Fe,Mg)SiO3.H2O",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_NiFerrite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,NiFe2O4,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Fe_Fe_0: en
+bmm_Fe_Scorzalite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"(Fe,Mg)Al2(OH,PO4)2",compound,eval,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Siderite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FeCO3,compound,eval,COD 1548824
+bmm_Fe_Staurolite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"Fe2Al9O6(SiO4)4(O,OH)2",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Vesuvianite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,"Ca10(Mg,Fe)Al4(Si2O7)2(SiO4)4(OH)4",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Fe_Vivianite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,Fe3(PO4)2,compound,train,COD 2300033
+bmm_Fe_Wustite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,FeO,compound,train,COD 1011169
+bmm_Fe_ZnFerrite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Fe K,ZnFe2O4,compound,eval,COD 1010130
+bmm_Ni_K_LanthanumNickelate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,LaNiO3,compound,train,COD 1000307
+bmm_Ni_K_NickelAluminate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,NiAl2O4,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+bmm_Ni_K_NickelBorateHydrate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,NiBO3 + nH2O,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Ni_K_NickelFerrite,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,NiFe2O4,compound,eval,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+bmm_Ni_K_NickelFoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,Ni foil,foil,train,COD 4320486
+bmm_Ni_K_NickelHydroxide,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,Ni(OH)2,compound,train,COD 1548811
+bmm_Ni_K_NickelOxide,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Ni K,NiO,compound,train,COD 1010093
+bmm_Pt_L3_PlatinumAcetylacetate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,"Pt(C5H7O2)2, Platinum acetylacetonate",compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Pt_L3_PlatinumChloride,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,PtCl2,compound,train,COD 1534093
+bmm_Pt_L3_PlatinumFoil,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,Pt foil,foil,val,COD 1011103
+bmm_Pt_L3_PotassiumHexaChloroPlatinate,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,K2PtCl6,compound,train,COD 1010235
+bmm_Pt_L3_PtRu,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,PtRu powder,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+bmm_Pt_L3_TetraammineplatinumChloride,bmm_standards_nist,"NIST public-domain data (17 U.S.C. 105) with worldwide royalty-free licence, see https://www.nist.gov/open/license",Pt L3,Pt(NH3)4Cl2.xH2O,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+lisa_Co_Co2O3_111_80K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+lisa_Co_Co3O4_111_80K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,"Cobalt(II,III) oxide",compound,eval,COD 1526734
+lisa_Co_Co_Acetate_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt(II) acetate,compound,unused,FEFF twin unavailable: unparsable formula: ·4 is an invalid formula!
+lisa_Co_Co_foil_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Co metal foil,foil,eval,COD 9008492
+lisa_Co_CoAl2O4_111_80K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt aluminum oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+lisa_Co_CoFe2O4_Co_111_80K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt iron oxide,compound,eval,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CoFe2O4Co_Co_0: en
+lisa_Co_CoO_111_80K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt(II) oxide,compound,train,COD 1533087
+lisa_Co_CoP_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Cobalt(iii) phosphide,compound,eval,COD 9008928
+lisa_Co_LiCoO2_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,lithium cobalt(III) oxide,compound,train,COD 1533825
+lisa_Co_ZnCo2O4_Co_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Co K,Zinc Cobalt Oxide,compound,eval,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\ZnCo2O4Co_Co_0: en
+lisa_Cu_cu_c19h29coo_2_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper resinate,compound,eval,FEFF twin unavailable: no COD entry
+lisa_Cu_Cu_CH3COO_2_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper(II) acetate,compound,unused,FEFF twin unavailable: no COD entry
+lisa_Cu_Cu2O_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,"Copper(I) oxide, Cuprous oxide",compound,train,COD 1000063
+lisa_Cu_Cu2S_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper(I) sulfide,compound,eval,COD 9008287
+lisa_Cu_Cu5FeS4_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,"Bornite, copper(I) iron sulphide",compound,eval,FEFF twin unavailable: no parsable ordered COD structure
+lisa_Cu_Cu_foil_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Cu metal foil,foil,val,COD 4105040
+lisa_Cu_CuCl2_311,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,"Copper(II) chloride, dihydrate",compound,eval,COD 1539945
+lisa_Cu_CuCl_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper(I) chloride,compound,eval,COD 1010991
+lisa_Cu_CuCO3_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper(II) carbonate,compound,train,COD 9000104
+lisa_Cu_CuFeS2_Cu_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,"Chalcopyrite, copper iron sulfide",compound,train,COD 1010940
+lisa_Cu_CuO_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,"Copper(II) oxide, cupric oxide",compound,train,COD 1011148
+lisa_Cu_CuS_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Cu K,Copper(II) sulfide,compound,train,COD 1010920
+lisa_Fe_CuFeS2_Fe_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,"Chalcopyrite, copper iron sulfide",compound,eval,COD 1010940
+lisa_Fe_Fe2O3_311_EXAFS,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Iron(III) oxide,compound,train,COD 1546383
+lisa_Fe_Fe2O3_311_XANES,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Iron(III) oxide,compound,train,COD 1546383
+lisa_Fe_Fe3O4_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,"Iron(II,III) oxide",compound,train,COD 1513301
+lisa_Fe_Fe_foil_311,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Fe metal foil,foil,train,COD 1100108
+lisa_Fe_Fe_Mineral_Biotite_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Biotite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+lisa_Fe_Fe_Mineral_goethite_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Goethite,compound,eval,FEFF twin unavailable: unparsable formula: α- is an invalid formula!
+lisa_Fe_Fe_Mineral_muscovite_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Muscovite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+lisa_Fe_FeO_311_79K,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Iron(II) oxide,compound,eval,COD 1011169
+lisa_Fe_Ferrihydrite_311_EXAFS,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,Ferrihydrite,compound,unused,FEFF twin unavailable: unparsable formula: + is an invalid formula!
+lisa_Fe_goethite_311_EXAFS,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,"Goethite, Iron(III) oxide-hydroxide",compound,unused,FEFF twin unavailable: unparsable formula: α- is an invalid formula!
+lisa_Fe_Hematite_311,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,"Iron(II) oxide, Hematite",compound,train,COD 1546383
+lisa_Fe_NiFe2O4_Fe_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Fe K,"Nickel Iron Oxide, Nickel Ferrite",compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Fe_Fe_0: en
+lisa_Ni_LaNiO3_Ni_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Ni K,Lanthanum nickel oxide,compound,train,COD 1000307
+lisa_Ni_Ni_foil_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Ni K,Ni metal foil,foil,train,COD 4320486
+lisa_Ni_NiCo2O4_Ni_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Ni K,Nickel cobaltite,compound,eval,FEFF twin unavailable: no COD entry
+lisa_Ni_NiFe2O4_Ni_80K_111,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Ni K,"Nickel Iron Oxide, Nickel Ferrite",compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+lisa_Pt_Pt_foil_L3_311,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Pt L3,Pt metal foil,foil,train,COD 1011103
+lisa_Pt_PtO2_L3_311,lisa_xasdb,CC-BY-4.0 (Zenodo record 10.5281/zenodo.10778068 of the LISA XAS Database; site footer: 'Copyright Public Domain'),Pt L3,Platinum(IV) oxide,compound,train,COD 1537410
+lisa_zen_Fe2O3_111,lisa_xasdb,CC-BY-4.0,Fe K,"Iron(III) oxide, ferric oxide",compound,train,COD 1546383
+larch_xafs_cu_rt01_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Cu K,Cu foil (cu_rt01.xmu),foil,train,COD 4105040
+larch_xafsdata_beamlines_APS20BM_2001_dat,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Fe K,raw beamline example file APS20BM_2001,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+larch_xafsdata_cu_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Cu K,Cu foil (cu.xmu),foil,eval,COD 4105040
+larch_xafsdata_cu_10k_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Cu K,Cu foil (cu_10k.xmu),foil,train,COD 4105040
+larch_xafsdata_cu_150k_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Cu K,Cu foil (cu_150k.xmu),foil,val,COD 4105040
+larch_xafsdata_cu_50k_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Cu K,Cu foil (cu_50k.xmu),foil,val,COD 4105040
+larch_xafsdata_fe2o3_rt1_xmu,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Fe K,fe2o3_rt1,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+larch_xafsdata_feo_xafs_dat,github_xraylarch_examples,MIT (xraylarch repository licence covering example data),Fe K,feo_xafs,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+cls_Co_id15m2je,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Nitrate Hexahydrate,compound,train,COD 1526307
+cls_Co_id1v9rgd,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_id26gw7u,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_id2wleuu,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_id4rluww,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfate Heptahydrate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_id5u5y3q,cls_xasdb,CC-BY-4.0,Co K,Lithium Cobalt (III) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_id6u91rm,cls_xasdb,CC-BY-4.0,Co K,Lithium Cobalt (III) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_id8cuuh3,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Thiocyanate,compound,train,COD 4330304
+cls_Co_id92s1n1,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_id9d44hc,cls_xasdb,CC-BY-4.0,Co K,"Cobalt (II,III) Oxide",compound,eval,COD 1526734
+cls_Co_idbtyfvl,cls_xasdb,CC-BY-4.0,Co K,Cobalt Disulfide,compound,train,COD 5910010
+cls_Co_idbuc20q,cls_xasdb,CC-BY-4.0,Co K,Cobalt Disulfide,compound,train,COD 5910010
+cls_Co_ide0vk7z,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Nitrate Hexahydrate,compound,train,COD 1526307
+cls_Co_idecfbn3,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Chloride,compound,train,COD 9009126
+cls_Co_idfqo0q6,cls_xasdb,CC-BY-4.0,Co K,Cobalt (III) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_idh9xp85,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_idhg420b,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Chloride,compound,train,COD 9009126
+cls_Co_idhzfty5,cls_xasdb,CC-BY-4.0,Co K,Cobalt (III) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_idi1gljn,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Thiocyanate,compound,train,COD 4330304
+cls_Co_idiu2mzq,cls_xasdb,CC-BY-4.0,Co K,Cobalt (IV) Sulfide,compound,train,COD 5910010
+cls_Co_idjsl6c8,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_idkb6f1c,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_idkfk0sk,cls_xasdb,CC-BY-4.0,Co K,Cobalt Foil,foil,train,COD 9008492
+cls_Co_idknawo7,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_idli14j6,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Thiocyanate,compound,train,COD 4330304
+cls_Co_idny6zt4,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_idovdecn,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_idpnvawn,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfate,compound,eval,COD 1528825
+cls_Co_idq926jy,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_idsytssr,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfate Heptahydrate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_idtlhmn5,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfate Heptahydrate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_iduwcvlt,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfate,compound,eval,COD 1528825
+cls_Co_iduwedh2,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxide,compound,train,COD 1533087
+cls_Co_idv22k4q,cls_xasdb,CC-BY-4.0,Co K,Cobalt (IV) Sulfide,compound,train,COD 5910010
+cls_Co_idv8pc6a,cls_xasdb,CC-BY-4.0,Co K,Cobalt Disulfide,compound,train,COD 5910010
+cls_Co_idvfmm2w,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Thiocyanate,compound,train,COD 4330304
+cls_Co_idwa4y8k,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_idxeoeja,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Co_idzpknx0,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Co_idzyf1gt,cls_xasdb,CC-BY-4.0,Co K,Cobalt (II) Sulfide,compound,val,COD 1011037
+cls_Cu_id32dsry,cls_xasdb,CC-BY-4.0,Cu K,Copper (I) Sulfide,compound,eval,COD 9008287
+cls_Cu_id5ariu8,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Sulfate Pentahydrate,compound,train,COD 1010527
+cls_Cu_id63705e,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Acetate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Cu_id66nb3r,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Oxide,compound,train,COD 1011148
+cls_Cu_id7ph63i,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Acetate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Cu_idaxo297,cls_xasdb,CC-BY-4.0,Cu K,Copper Foil,foil,val,COD 4105040
+cls_Cu_idbzn2q4,cls_xasdb,CC-BY-4.0,Cu K,Copper Foil,foil,val,COD 4105040
+cls_Cu_idd8p5bo,cls_xasdb,CC-BY-4.0,Cu K,Copper (I) Oxide,compound,val,COD 1000063
+cls_Cu_idjn9e7e,cls_xasdb,CC-BY-4.0,Cu K,Gerhardtite,compound,val,COD 9008310
+cls_Cu_idlejixm,cls_xasdb,CC-BY-4.0,Cu K,Copper Foil,foil,val,COD 4105040
+cls_Cu_idlgdli4,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Hydroxy Nitrate,compound,train,COD 9008310
+cls_Cu_idm5vjbg,cls_xasdb,CC-BY-4.0,Cu K,Copper Foil,foil,val,COD 4105040
+cls_Cu_idmndlma,cls_xasdb,CC-BY-4.0,Cu K,Gerhardtite,compound,val,COD 9008310
+cls_Cu_idojl0nt,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Sulfate Pentahydrate,compound,train,COD 1010527
+cls_Cu_ids7vx7e,cls_xasdb,CC-BY-4.0,Cu K,Copper (I) Sulfide,compound,eval,COD 9008287
+cls_Cu_idsg587e,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Hydroxy Nitrate,compound,train,COD 9008310
+cls_Cu_idsyc5zk,cls_xasdb,CC-BY-4.0,Cu K,Copper (I) Oxide,compound,val,COD 1000063
+cls_Cu_idufomww,cls_xasdb,CC-BY-4.0,Cu K,Copper (II) Oxide,compound,train,COD 1011148
+cls_Fe_id00s93u,cls_xasdb,CC-BY-4.0,Fe K,Nontronite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_id1d298m,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phosphate,compound,train,COD 1518114
+cls_Fe_id3q20lp,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phospahte-x2H2O,compound,train,COD 1518114
+cls_Fe_id498e7h,cls_xasdb,CC-BY-4.0,Fe K,Lithium Iron (II) Phosphate,compound,train,COD 1101111
+cls_Fe_id4ln8pg,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phosphate,compound,train,COD 1518114
+cls_Fe_id51lphg,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulfate,compound,train,COD 4343674
+cls_Fe_id5iy892,cls_xasdb,CC-BY-4.0,Fe K,Lepidocrocite,compound,train,COD 7720752
+cls_Fe_id5rv2ek,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulfate-xH2O,compound,train,COD 4343674
+cls_Fe_id8o0axb,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulphate,compound,train,COD 4343674
+cls_Fe_id9vncuy,cls_xasdb,CC-BY-4.0,Fe K,Nontronite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idal8hze,cls_xasdb,CC-BY-4.0,Fe K,Hematite,compound,train,COD 1546383
+cls_Fe_idaw4rkf,cls_xasdb,CC-BY-4.0,Fe K,Olivine,compound,eval,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Fe_idb941yd,cls_xasdb,CC-BY-4.0,Fe K,Siderite,compound,val,COD 1548824
+cls_Fe_idcj28n9,cls_xasdb,CC-BY-4.0,Fe K,Iron Foil,foil,train,COD 1100108
+cls_Fe_idd4azbg,cls_xasdb,CC-BY-4.0,Fe K,Illite-Smectite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Fe_idd4lwpj,cls_xasdb,CC-BY-4.0,Fe K,Ferrihydrite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_iddujsej,cls_xasdb,CC-BY-4.0,Fe K,Siderite,compound,val,COD 1548824
+cls_Fe_idey48f9,cls_xasdb,CC-BY-4.0,Fe K,Illite-Smectite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Fe_idfk0u7m,cls_xasdb,CC-BY-4.0,Fe K,Ripidolite,compound,unused,"FEFF twin unavailable: unparsable formula: ,, is an invalid formula!"
+cls_Fe_idgak04u,cls_xasdb,CC-BY-4.0,Fe K,Lithium Iron Phosphate,compound,train,COD 1101111
+cls_Fe_idghzdol,cls_xasdb,CC-BY-4.0,Fe K,Goethite,compound,eval,COD 7720752
+cls_Fe_idh63zwo,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phospahte-x4H2O,compound,train,COD 1518114
+cls_Fe_idiur7lc,cls_xasdb,CC-BY-4.0,Fe K,Iron (II) Sulfide,compound,val,COD 1009043
+cls_Fe_idjy1nr5,cls_xasdb,CC-BY-4.0,Fe K,Goethite,compound,eval,COD 7720752
+cls_Fe_idk36qeu,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phospahte-x4H2O,compound,train,COD 1518114
+cls_Fe_idkb4y8l,cls_xasdb,CC-BY-4.0,Fe K,Magnetite,compound,val,COD 1513301
+cls_Fe_idlop9zu,cls_xasdb,CC-BY-4.0,Fe K,Hematite,compound,train,COD 1546383
+cls_Fe_idm26b8p,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulfate,compound,train,COD 4343674
+cls_Fe_idmnvl19,cls_xasdb,CC-BY-4.0,Fe K,Ferrihydrite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idmrlvh2,cls_xasdb,CC-BY-4.0,Fe K,Goethite,compound,eval,COD 7720752
+cls_Fe_idmxkrj2,cls_xasdb,CC-BY-4.0,Fe K,Olivine,compound,eval,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Fe_idng95ys,cls_xasdb,CC-BY-4.0,Fe K,Iron (II) Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idnhifcj,cls_xasdb,CC-BY-4.0,Fe K,Magnetite,compound,val,COD 1513301
+cls_Fe_idozq8kn,cls_xasdb,CC-BY-4.0,Fe K,Iron (II) Sulfide,compound,val,COD 1009043
+cls_Fe_idp6mbv3,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulfate-xH2O,compound,train,COD 4343674
+cls_Fe_idqwdiiw,cls_xasdb,CC-BY-4.0,Fe K,Lepidocrocite,compound,train,COD 7720752
+cls_Fe_idqzseff,cls_xasdb,CC-BY-4.0,Fe K,Iron (II) Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idtnfk0j,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Sulphate,compound,train,COD 4343674
+cls_Fe_idu70an6,cls_xasdb,CC-BY-4.0,Fe K,Lithium Iron (II) Phosphate,compound,train,COD 1101111
+cls_Fe_idvltgqd,cls_xasdb,CC-BY-4.0,Fe K,Ripidolite,compound,unused,"FEFF twin unavailable: unparsable formula: ,, is an invalid formula!"
+cls_Fe_idvu75q5,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Pyrophosphate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idwo35rt,cls_xasdb,CC-BY-4.0,Fe K,Olivine,compound,eval,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Fe_idwqdvgp,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Pyrophosphate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Fe_idxk5629,cls_xasdb,CC-BY-4.0,Fe K,Lithium Iron Phosphate,compound,train,COD 1101111
+cls_Fe_idxk9hov,cls_xasdb,CC-BY-4.0,Fe K,Magnetite,compound,val,COD 1513301
+cls_Fe_idz5skxj,cls_xasdb,CC-BY-4.0,Fe K,Iron (III) Phospahte-x2H2O,compound,train,COD 1518114
+cls_Fe_idzqd8no,cls_xasdb,CC-BY-4.0,Fe K,Siderite,compound,val,COD 1548824
+cls_Ni_id05is1y,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Bromide,compound,eval,COD 1010054
+cls_Ni_id0folki,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfide,compound,val,COD 1010435
+cls_Ni_id0nr6jz,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfide,compound,val,COD 1010435
+cls_Ni_id1a24ii,cls_xasdb,CC-BY-4.0,Ni K,Gersdorffite,compound,train,COD 1529673
+cls_Ni_id1u16ir,cls_xasdb,CC-BY-4.0,Ni K,Lithium Nickel (III) Oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+cls_Ni_id2w8gwn,cls_xasdb,CC-BY-4.0,Ni K,Nickel Ferrite,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_id2wxgeb,cls_xasdb,CC-BY-4.0,Ni K,Nickel Zinc Ferrite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_id38dcme,cls_xasdb,CC-BY-4.0,Ni K,Pentlandite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Ni_id3zpndq,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Oxide,compound,train,COD 1010093
+cls_Ni_id42rh98,cls_xasdb,CC-BY-4.0,Ni K,Nickel Ferrite,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_id4k5386,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Chloride Hexahydrate,compound,val,COD 1530837
+cls_Ni_id5iyjud,cls_xasdb,CC-BY-4.0,Ni K,Nickeline,compound,eval,COD 1011036
+cls_Ni_id7610fo,cls_xasdb,CC-BY-4.0,Ni K,Lithium Nickel (III) Oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+cls_Ni_id7mn1bh,cls_xasdb,CC-BY-4.0,Ni K,Nickel Selenide (Non-stoichiometric),compound,unused,FEFF twin unavailable: unparsable formula: Can't parse Element or Species from 'Nix'
+cls_Ni_id7uf2hr,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Selenide,compound,train,COD 1011367
+cls_Ni_id8rgu08,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Selenide,compound,train,COD 1011367
+cls_Ni_id9fj7ip,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Chloride Hexahydrate,compound,val,COD 1530837
+cls_Ni_id9ksa7w,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Cobalt (II) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_id9qthow,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfate Hexahydrate,compound,val,COD 1011189
+cls_Ni_id9t6piq,cls_xasdb,CC-BY-4.0,Ni K,Lithium Nickel (III) Oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+cls_Ni_idb24j4d,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Acetate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idba9r1f,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfide,compound,val,COD 1010435
+cls_Ni_idbu3sji,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfate Hexahydrate,compound,val,COD 1011189
+cls_Ni_idclgksi,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Carbonate,compound,val,COD 1548823
+cls_Ni_idd2z91p,cls_xasdb,CC-BY-4.0,Ni K,Nickel Subsulfide,compound,eval,COD 1011250
+cls_Ni_idd40j5d,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Oxide,compound,train,COD 1010093
+cls_Ni_ide8v29k,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Carbonate,compound,val,COD 1548823
+cls_Ni_idebi6fw,cls_xasdb,CC-BY-4.0,Ni K,Nickel Ferrite,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_idefpril,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Oxide,compound,train,COD 1010093
+cls_Ni_idehto15,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Cyanide Tetrahydrate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idehvi9f,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Oxide,compound,train,COD 1010093
+cls_Ni_idej1kua,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Carbonate,compound,val,COD 1548823
+cls_Ni_idf9y7cm,cls_xasdb,CC-BY-4.0,Ni K,Nickel Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idfnpjoz,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfide,compound,val,COD 1010435
+cls_Ni_idgxjg56,cls_xasdb,CC-BY-4.0,Ni K,Nickel Selenide (Non-stoichiometric),compound,unused,FEFF twin unavailable: unparsable formula: Can't parse Element or Species from 'Nix'
+cls_Ni_idgygdae,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Chloride,compound,train,COD 2310380
+cls_Ni_idisyr2r,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfate Hexahydrate,compound,val,COD 1011189
+cls_Ni_idj869rz,cls_xasdb,CC-BY-4.0,Ni K,Nickel Subsulfide,compound,eval,COD 1011250
+cls_Ni_idjv2g3r,cls_xasdb,CC-BY-4.0,Ni K,Iron (III) Nickel (II) Oxide,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_idla8fxa,cls_xasdb,CC-BY-4.0,Ni K,Theophrastite,compound,train,COD 1548811
+cls_Ni_idlau9wm,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Thiocyanate,compound,train,COD 4350775
+cls_Ni_idlea0t8,cls_xasdb,CC-BY-4.0,Ni K,Nickeline,compound,eval,COD 1011036
+cls_Ni_idn4fgrs,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Hydroxide,compound,train,COD 1548811
+cls_Ni_idoky4mp,cls_xasdb,CC-BY-4.0,Ni K,Nickel Ferrite,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_idowwha5,cls_xasdb,CC-BY-4.0,Ni K,Iron (III) Nickel (II) Oxide,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+cls_Ni_idp3nass,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Acetate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idpmafq7,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Chloride,compound,train,COD 2310380
+cls_Ni_idpqg7j9,cls_xasdb,CC-BY-4.0,Ni K,Nickel Oxalate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idq49sdi,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Cobalt (II) Oxide,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idrlrhun,cls_xasdb,CC-BY-4.0,Ni K,Nickel Zinc Ferrite,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_ids4fos7,cls_xasdb,CC-BY-4.0,Ni K,Pentlandite,compound,unused,"FEFF twin unavailable: unparsable formula: , is an invalid formula!"
+cls_Ni_idsy53xf,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Acetate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idtp1w22,cls_xasdb,CC-BY-4.0,Ni K,Gersdorffite,compound,train,COD 1529673
+cls_Ni_idu382nd,cls_xasdb,CC-BY-4.0,Ni K,Theophrastite,compound,train,COD 1548811
+cls_Ni_idu8nrg4,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Bromide,compound,eval,COD 1010054
+cls_Ni_idv6823s,cls_xasdb,CC-BY-4.0,Ni K,Nickel Selenide,compound,train,COD 1011367
+cls_Ni_idv9fuyo,cls_xasdb,CC-BY-4.0,Ni K,Nickel Foil,foil,eval,COD 4320486
+cls_Ni_idvg4j42,cls_xasdb,CC-BY-4.0,Ni K,Nickel Selenide,compound,train,COD 1011367
+cls_Ni_idvnx1g7,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Carbonate,compound,val,COD 1548823
+cls_Ni_idx02wah,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Cyanide Tetrahydrate,compound,unused,FEFF twin unavailable: no COD entry
+cls_Ni_idxgx7za,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Oxide,compound,train,COD 1010093
+cls_Ni_idxr4gnh,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Hydroxide,compound,train,COD 1548811
+cls_Ni_idz3yxz0,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Sulfide,compound,val,COD 1010435
+cls_Ni_idz4ps3c,cls_xasdb,CC-BY-4.0,Ni K,Nickel (II) Thiocyanate,compound,train,COD 4350775
+cls_Ni_idzhqq4p,cls_xasdb,CC-BY-4.0,Ni K,Lithium Nickel (III) Oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+cls_Ni_idzmtw5s,cls_xasdb,CC-BY-4.0,Ni K,Nickel Ferrite,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+mdr_nims_1680,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) hydroxide,compound,val,COD 1010267
+mdr_nims_1682,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) acetate, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _4 is an invalid formula!
+mdr_nims_1687,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II,III) oxide",compound,eval,COD 1526734
+mdr_nims_1688,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) oxalate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_1690,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt phosphide,compound,train,COD 1538411
+mdr_nims_1691,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt-iron oxide,compound,eval,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CoFe2O4Co_Co_0: en
+mdr_nims_1692,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) bromaide, anhydrous",compound,train,COD 9009099
+mdr_nims_1693,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) chloraide, anhydrous",compound,train,COD 9009126
+mdr_nims_1694,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt,foil,train,COD 9008492
+mdr_nims_1701,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt phosphate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _8 is an invalid formula!
+mdr_nims_1702,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) carbonate (basic),compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_1703,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) phthalocyanine,compound,val,COD 2100746
+mdr_nims_1704,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) nitrade, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_1705,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) fluoraide, hydrous",compound,eval,COD 2100986
+mdr_nims_1706,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(III) acetylacetonate,compound,eval,COD 2016051
+mdr_nims_1708,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) hydroxide,compound,val,COD 1010267
+mdr_nims_1709,mdr_xafs_db,CC-BY-4.0,Co K,Lithium cobalt phosphate,compound,train,COD 1560574
+mdr_nims_1710,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) phthalocyanine,compound,val,COD 2100746
+mdr_nims_1711,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt phosphate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _8 is an invalid formula!
+mdr_nims_1712,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) bromaide, anhydrous",compound,train,COD 9009099
+mdr_nims_1713,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(III) acetylacetonate,compound,eval,COD 2016051
+mdr_nims_1715,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt monoantimonide,compound,train,COD 1541039
+mdr_nims_1716,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt sulfide,compound,train,COD 5910010
+mdr_nims_1717,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt oxide, black",compound,unused,FEFF twin unavailable: unparsable formula: could not convert string to float: '-'
+mdr_nims_1719,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt sulfide,compound,train,COD 1011037
+mdr_nims_1720,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt oxyhydroxide,compound,train,COD 9009449
+mdr_nims_1721,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt titanate,compound,train,COD 1535275
+mdr_nims_1722,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) oxide,compound,train,COD 1533087
+mdr_nims_1723,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) nitrade, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_1724,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt phosphide,compound,train,COD 1538411
+mdr_nims_1725,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) chloraide, anhydrous",compound,train,COD 9009126
+mdr_nims_1726,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) acetate, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _4 is an invalid formula!
+mdr_nims_1727,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) oxalate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_1728,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II,III) oxide",compound,eval,COD 1526734
+mdr_nims_1729,mdr_xafs_db,CC-BY-4.0,Co K,Lithium cobalt oxide,compound,train,COD 1533825
+mdr_nims_1730,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt molybdate,compound,val,COD 7205001
+mdr_nims_1731,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt tungstate,compound,train,COD 8103677
+mdr_nims_1732,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) sulfate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _7 is an invalid formula!
+mdr_nims_1733,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt-iron oxide,compound,eval,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CoFe2O4Co_Co_0: en
+mdr_nims_1734,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt,foil,train,COD 9008492
+mdr_nims_1735,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) fluoraide, hydrous",compound,eval,COD 2100986
+mdr_nims_1736,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) carbonate (basic),compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_1737,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) bromide, anhydrous",compound,train,COD 8101226
+mdr_nims_1738,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) oxalate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _ is an invalid formula!
+mdr_nims_1739,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt sulfide,compound,train,COD 1011037
+mdr_nims_1740,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt oxide, black",compound,unused,FEFF twin unavailable: unparsable formula: could not convert string to float: '-'
+mdr_nims_1741,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) chloride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_1742,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt sulfide,compound,train,COD 5910010
+mdr_nims_1743,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) oxide,compound,train,COD 1533087
+mdr_nims_1744,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) chloride, anhydrous",compound,train,COD 1539945
+mdr_nims_1745,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt oxyhydroxide,compound,train,COD 9009449
+mdr_nims_1746,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt molybdate,compound,val,COD 7205001
+mdr_nims_1747,mdr_xafs_db,CC-BY-4.0,Cu K,Copper nitride,compound,eval,COD 1010167
+mdr_nims_1748,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(I) oxide,compound,val,COD 1000063
+mdr_nims_1752,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(I) sulfide,compound,eval,COD 9008287
+mdr_nims_1753,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt tungstate,compound,train,COD 8103677
+mdr_nims_1754,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) bromide, anhydrous",compound,train,COD 8101226
+mdr_nims_1756,mdr_xafs_db,CC-BY-4.0,Cu K,Copper-iron oxide,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CuFe2O4Cu_Cu_0: en
+mdr_nims_1757,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) chromite,compound,train,COD 1543899
+mdr_nims_1758,mdr_xafs_db,CC-BY-4.0,Cu K,Copper acetate,compound,unused,FEFF twin unavailable: unparsable formula: neutral is an invalid formula!
+mdr_nims_1759,mdr_xafs_db,CC-BY-4.0,Cu K,Copper,foil,eval,COD 4105040
+mdr_nims_1760,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt monoantimonide,compound,train,COD 1541039
+mdr_nims_1762,mdr_xafs_db,CC-BY-4.0,Cu K,Copper hydroxide,compound,eval,COD 9007849
+mdr_nims_1765,mdr_xafs_db,CC-BY-4.0,Cu K,Copper fluoride,compound,unused,FEFF twin unavailable: unparsable formula: approx. is an invalid formula!
+mdr_nims_1766,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) sulfate, anhydrous",compound,train,COD 2310620
+mdr_nims_1767,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) oxide,compound,train,COD 1011148
+mdr_nims_1768,mdr_xafs_db,CC-BY-4.0,Cu K,Copper molybdate,compound,eval,COD 1535336
+mdr_nims_1769,mdr_xafs_db,CC-BY-4.0,Co K,Lithium cobalt oxide,compound,train,COD 1533825
+mdr_nims_1770,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II) sulfate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _7 is an invalid formula!
+mdr_nims_1771,mdr_xafs_db,CC-BY-4.0,Cu K,Copper phthalocyanine,compound,train,COD 2103883
+mdr_nims_1772,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(I) iodide, anhydrous",compound,val,COD 1011239
+mdr_nims_1774,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) oxalate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _ is an invalid formula!
+mdr_nims_1775,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) carbonate,compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_1776,mdr_xafs_db,CC-BY-4.0,Co K,Lithium cobalt phosphate,compound,train,COD 1560574
+mdr_nims_1777,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) fluoride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_1778,mdr_xafs_db,CC-BY-4.0,Cu K,Copper nitride,compound,eval,COD 1010167
+mdr_nims_1779,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) acetylacetonate,compound,train,COD 1551114
+mdr_nims_1782,mdr_xafs_db,CC-BY-4.0,Cu K,Copper tungstate,compound,train,COD 1008036
+mdr_nims_1783,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt titanate,compound,train,COD 1535275
+mdr_nims_1784,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper nitrate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _3 is an invalid formula!
+mdr_nims_1785,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) selenide,compound,eval,COD 2106764
+mdr_nims_1786,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) sulfate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _5 is an invalid formula!
+mdr_nims_1794,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) chromite,compound,train,COD 1543899
+mdr_nims_1798,mdr_xafs_db,CC-BY-4.0,Cu K,Copper tungstate,compound,train,COD 1008036
+mdr_nims_1804,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) oxide,compound,train,COD 1011148
+mdr_nims_1805,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) chloride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_1812,mdr_xafs_db,CC-BY-4.0,Cu K,Copper,foil,eval,COD 4105040
+mdr_nims_1820,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(I) iodide, anhydrous",compound,val,COD 1011239
+mdr_nims_1822,mdr_xafs_db,CC-BY-4.0,Cu K,Copper molybdate,compound,eval,COD 1535336
+mdr_nims_1824,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) sulfate, anhydrous",compound,train,COD 2310620
+mdr_nims_1826,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) fluoride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_1829,mdr_xafs_db,CC-BY-4.0,Cu K,Copper-iron oxide,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CuFe2O4Cu_Cu_0: en
+mdr_nims_1830,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) carbonate,compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_1831,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) chloride, anhydrous",compound,train,COD 1539945
+mdr_nims_1832,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(II) sulfate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _5 is an invalid formula!
+mdr_nims_1834,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) selenide,compound,eval,COD 2106764
+mdr_nims_1979,mdr_xafs_db,CC-BY-4.0,Cu K,Copper phthalocyanine,compound,train,COD 2103883
+mdr_nims_1995,mdr_xafs_db,CC-BY-4.0,Cu K,Copper fluoride,compound,unused,FEFF twin unavailable: unparsable formula: approx. is an invalid formula!
+mdr_nims_2014,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) oxyhydroxide,compound,unused,FEFF twin unavailable: unparsable formula: alpha- is an invalid formula!
+mdr_nims_2015,mdr_xafs_db,CC-BY-4.0,Cu K,Copper acetate,compound,unused,FEFF twin unavailable: unparsable formula: neutral is an invalid formula!
+mdr_nims_2016,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) ammonium sulfate Hydrous,compound,eval,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2021,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(I) sulfide,compound,eval,COD 9008287
+mdr_nims_2022,mdr_xafs_db,CC-BY-4.0,Cu K,Copper hydroxide,compound,eval,COD 9007849
+mdr_nims_2023,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) oxide (haematite),compound,eval,FEFF twin unavailable: unparsable formula: alpha- is an invalid formula!
+mdr_nims_2026,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(I) oxide,compound,val,COD 1000063
+mdr_nims_2028,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper nitrate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _3 is an invalid formula!
+mdr_nims_2029,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) ammonium sulfate Hydrous,compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2032,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) acetylacetonate,compound,train,COD 1551114
+mdr_nims_2033,mdr_xafs_db,CC-BY-4.0,Fe K,Calcium ferrite,compound,train,COD 1101063
+mdr_nims_2035,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) hydroxide,compound,unused,FEFF twin unavailable: unparsable formula: approx. is an invalid formula!
+mdr_nims_2037,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) acetate Cbasic,compound,unused,FEFF twin unavailable: unparsable formula: approx. is an invalid formula!
+mdr_nims_2038,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) bromide Anhydrous,compound,unused,FEFF twin unavailable: unparsable formula: approx. is an invalid formula!
+mdr_nims_2039,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) phthalocyanine,compound,val,COD 4334302
+mdr_nims_2040,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) oxyhydroxide,compound,unused,FEFF twin unavailable: unparsable formula: approx.gamma- is an invalid formula!
+mdr_nims_2045,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) oxide,compound,eval,COD 1011169
+mdr_nims_2046,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) bromide Anhydrous,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2049,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) chloride Anhydrous,compound,train,COD 1535681
+mdr_nims_2051,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) chloride Hydrous,compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_2053,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) sulfide,compound,val,COD 1009043
+mdr_nims_2059,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) phosphate,compound,train,COD 1518114
+mdr_nims_2060,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) acetylacetonate,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+mdr_nims_2067,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) chloride Anhydrous,compound,eval,COD 9009128
+mdr_nims_2070,mdr_xafs_db,CC-BY-4.0,Fe K,Iron boride,compound,train,COD 1010477
+mdr_nims_2072,mdr_xafs_db,CC-BY-4.0,Fe K,Iron disulfide,compound,train,COD 1564890
+mdr_nims_2078,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) chloride Hydrous,compound,unused,FEFF twin unavailable: unparsable formula: _4 is an invalid formula!
+mdr_nims_2080,mdr_xafs_db,CC-BY-4.0,Fe K,Copper-iron oxide (Copper ferrite),compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\CuFe2O4Fe_Fe_0: en
+mdr_nims_2082,mdr_xafs_db,CC-BY-4.0,Fe K,Iron,foil,train,COD 1100108
+mdr_nims_2083,mdr_xafs_db,CC-BY-4.0,Fe K,Iron nitride,compound,train,COD 9004225
+mdr_nims_2084,mdr_xafs_db,CC-BY-4.0,Fe K,"Iron(II,III) oxide (Magnetite)",compound,train,COD 1513301
+mdr_nims_2085,mdr_xafs_db,CC-BY-4.0,Fe K,Iron nitride,compound,train,COD 1011217
+mdr_nims_2086,mdr_xafs_db,CC-BY-4.0,Fe K,Nickel-iron oxide (Nickel ferrite),compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Fe_Fe_0: en
+mdr_nims_2087,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) o-phosphate Hydrous,compound,eval,FEFF twin unavailable: unparsable formula: _8 is an invalid formula!
+mdr_nims_2091,mdr_xafs_db,CC-BY-4.0,Fe K,Iron selenide,compound,train,COD 1010298
+mdr_nims_2093,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) molybdenum oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2097,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) sulfate Hydrous,compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2100,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) fluoride Hydrous,compound,eval,FEFF twin unavailable: unparsable formula: _3 is an invalid formula!
+mdr_nims_2103,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(III) nitrate Hydrous,compound,eval,FEFF twin unavailable: unparsable formula: _9 is an invalid formula!
+mdr_nims_2104,mdr_xafs_db,CC-BY-4.0,Fe K,Iron phosphide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2110,mdr_xafs_db,CC-BY-4.0,Fe K,SUS631,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2111,mdr_xafs_db,CC-BY-4.0,Fe K,SUS316L,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2114,mdr_xafs_db,CC-BY-4.0,Fe K,Iron lithium oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2124,mdr_xafs_db,CC-BY-4.0,Fe K,SUS301,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2127,mdr_xafs_db,CC-BY-4.0,Fe K,Magnesium-iron oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+mdr_nims_2130,mdr_xafs_db,CC-BY-4.0,Fe K,Lanthanum-iron oxide,compound,train,COD 1561804
+mdr_nims_2134,mdr_xafs_db,CC-BY-4.0,Fe K,Iron silicide,compound,eval,COD 5910046
+mdr_nims_2138,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) titanium oxide,compound,train,COD 1011033
+mdr_nims_2141,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) sulfate Hydrous,compound,eval,FEFF twin unavailable: unparsable formula: _7 is an invalid formula!
+mdr_nims_2145,mdr_xafs_db,CC-BY-4.0,Fe K,Manganese-iron oxide (Manganese ferrite),compound,train,COD 1010131
+mdr_nims_2146,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) tungsten oxide,compound,eval,COD 1567215
+mdr_nims_2148,mdr_xafs_db,CC-BY-4.0,Fe K,Iron chromium 2,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2149,mdr_xafs_db,CC-BY-4.0,Fe K,SUS430,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2152,mdr_xafs_db,CC-BY-4.0,Fe K,mu-metal,foil,train,COD 1100108
+mdr_nims_2157,mdr_xafs_db,CC-BY-4.0,Fe K,Lithium iron(II) phosphate,compound,train,COD 1101111
+mdr_nims_2159,mdr_xafs_db,CC-BY-4.0,Fe K,Iron(II) sulfate Anhydrous,compound,train,COD 2216658
+mdr_nims_2164,mdr_xafs_db,CC-BY-4.0,Fe K,SUS304,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2168,mdr_xafs_db,CC-BY-4.0,Fe K,Inconel 600,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2172,mdr_xafs_db,CC-BY-4.0,Fe K,Zinc ferrite,compound,train,COD 1010130
+mdr_nims_2174,mdr_xafs_db,CC-BY-4.0,Fe K,Iron chromium 10,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2207,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(IV) chloride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _5 is an invalid formula!
+mdr_nims_2212,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum(IV) oxide,compound,train,COD 1537410
+mdr_nims_2222,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) iodide, anhydrous",compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2248,mdr_xafs_db,CC-BY-4.0,Pt L3,Hydrogen hexahydroxyplatinate(IV),compound,train,COD 1527114
+mdr_nims_2277,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) chloride, anhydrous",compound,train,COD 1534093
+mdr_nims_2302,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) bromide, anhydrous",compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2380,mdr_xafs_db,CC-BY-4.0,Pt L3,Hydrogen hexahydroxyplatinate(IV),compound,train,COD 1527114
+mdr_nims_2397,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(IV) chloride, hydrous",compound,eval,FEFF twin unavailable: unparsable formula: _5 is an invalid formula!
+mdr_nims_2416,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum(IV) oxide,compound,train,COD 1537410
+mdr_nims_2417,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) iodide, anhydrous",compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2445,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(IV) oxide, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2473,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum,foil,val,COD 1011103
+mdr_nims_2497,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum,foil,val,COD 1011103
+mdr_nims_2501,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(IV) oxide, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2502,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) chloride, anhydrous",compound,train,COD 1534093
+mdr_nims_2539,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum(II) bromide, anhydrous",compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2546,mdr_xafs_db,CC-BY-4.0,Ni K,KOVAR,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2550,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel manganese cobalt oxide,compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2551,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel bromaide, anhydrous",compound,train,COD 1010054
+mdr_nims_2552,mdr_xafs_db,CC-BY-4.0,Ni K,Potassium nickel(IV) paraperiodate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2556,mdr_xafs_db,CC-BY-4.0,Ni K,HAVAR,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2557,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel chloraide, anhydrous",compound,train,COD 2310380
+mdr_nims_2558,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium manganese nickel oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2561,mdr_xafs_db,CC-BY-4.0,Ni K,Potassium hexafluoronickelate(IV),compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2589,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+mdr_nims_2594,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel nitrade, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_2596,mdr_xafs_db,CC-BY-4.0,Ni K,78 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2602,mdr_xafs_db,CC-BY-4.0,Ni K,Nichrome,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2604,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel hydroxide,compound,train,COD 1548811
+mdr_nims_2612,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel acetate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2619,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) phthalocyanine,compound,train,COD 7252142
+mdr_nims_2622,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel chloraide, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_2627,mdr_xafs_db,CC-BY-4.0,Ni K,Hastelloy C-276,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2628,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel cobalt oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2637,mdr_xafs_db,CC-BY-4.0,Ni K,45 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2646,mdr_xafs_db,CC-BY-4.0,Ni K,mu-metal,foil,eval,COD 4320486
+mdr_nims_2655,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel oxalate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_2660,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel peroxide,compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2663,mdr_xafs_db,CC-BY-4.0,Ni K,Inconel 600,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2672,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) acetylacetonate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2695,mdr_xafs_db,CC-BY-4.0,Ni K,42 Invar,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2714,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel iodide, anhydrous",compound,train,COD 1010056
+mdr_nims_2718,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel fluoride, anhydrous",compound,train,COD 2100984
+mdr_nims_2728,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel carbonate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2731,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel carbonate (basic),compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_2734,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel-iron oxide (Nickel ferrite),compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+mdr_nims_2739,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel,foil,val,COD 4320486
+mdr_nims_2744,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel molybdate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2840,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel sulfate, anhydrous",compound,train,COD 2310561
+mdr_nims_2863,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel sulfide,compound,val,COD 1010435
+mdr_nims_2884,mdr_xafs_db,CC-BY-4.0,Ni K,42 Invar,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2888,mdr_xafs_db,CC-BY-4.0,Ni K,Potassium hexafluoronickelate(IV),compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2890,mdr_xafs_db,CC-BY-4.0,Ni K,Potassium nickel(IV) paraperiodate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2891,mdr_xafs_db,CC-BY-4.0,Ni K,78 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2893,mdr_xafs_db,CC-BY-4.0,Ni K,SUS301,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2895,mdr_xafs_db,CC-BY-4.0,Ni K,Inconel 600,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2900,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel tungstate,compound,eval,COD 2310619
+mdr_nims_2903,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) phthalocyanine,compound,train,COD 7252142
+mdr_nims_2904,mdr_xafs_db,CC-BY-4.0,Ni K,45 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2906,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel manganese cobalt oxide,compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2909,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel titanate,compound,train,COD 1010026
+mdr_nims_2910,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium manganese nickel oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2911,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel sulfate, hydrous",compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2914,mdr_xafs_db,CC-BY-4.0,Ni K,SUS304,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2915,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel cobalt oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2916,mdr_xafs_db,CC-BY-4.0,Ni K,KOVAR,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2917,mdr_xafs_db,CC-BY-4.0,Ni K,SUS631,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2918,mdr_xafs_db,CC-BY-4.0,Ni K,Hastelloy C-276,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2930,mdr_xafs_db,CC-BY-4.0,Ni K,HAVAR,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_2931,mdr_xafs_db,CC-BY-4.0,Ni K,SUS316L,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2936,mdr_xafs_db,CC-BY-4.0,Ni K,Nichrome,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2937,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) acetylacetonate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2938,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel nitrade, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_2939,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel hydroxide,compound,train,COD 1548811
+mdr_nims_2941,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel-iron oxide (Nickel ferrite),compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NiFe2O4Ni_Ni_0: en
+mdr_nims_2943,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) oxide,compound,train,COD 1010093
+mdr_nims_2945,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel carbonate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2948,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel chloraide, anhydrous",compound,train,COD 2310380
+mdr_nims_2950,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel chloraide, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_2952,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel iodide, anhydrous",compound,train,COD 1010056
+mdr_nims_2953,mdr_xafs_db,CC-BY-4.0,Ni K,mu-metal,foil,eval,COD 4320486
+mdr_nims_2954,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel acetate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _x is an invalid formula!
+mdr_nims_2955,mdr_xafs_db,CC-BY-4.0,Ni K,Lithium nickel oxide,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+mdr_nims_2957,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel fluoride, anhydrous",compound,train,COD 2100984
+mdr_nims_2958,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel,foil,val,COD 4320486
+mdr_nims_2959,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel oxalate, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _2 is an invalid formula!
+mdr_nims_2960,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel molybdate,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_2962,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel carbonate (basic),compound,unused,FEFF twin unavailable: unparsable formula: basic is an invalid formula!
+mdr_nims_2963,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel peroxide,compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2964,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel bromaide, anhydrous",compound,train,COD 1010054
+mdr_nims_2969,mdr_xafs_db,CC-BY-4.0,Ni K,SUS301,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2971,mdr_xafs_db,CC-BY-4.0,Ni K,SUS631,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2977,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel sulfate, hydrous",compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_2978,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel sulfate, anhydrous",compound,train,COD 2310561
+mdr_nims_2979,mdr_xafs_db,CC-BY-4.0,Ni K,SUS304,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_2981,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel sulfide,compound,val,COD 1010435
+mdr_nims_2984,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel titanate,compound,train,COD 1010026
+mdr_nims_2985,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel tungstate,compound,eval,COD 2310619
+mdr_nims_2986,mdr_xafs_db,CC-BY-4.0,Ni K,SUS316L,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_3001,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) oxide,compound,train,COD 1010093
+mdr_nims_3008,mdr_xafs_db,CC-BY-4.0,Cu K,Copper nickel,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_3011,mdr_xafs_db,CC-BY-4.0,Cu K,Manganin,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_3014,mdr_xafs_db,CC-BY-4.0,Fe K,78 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_3017,mdr_xafs_db,CC-BY-4.0,Fe K,42 Invar,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_3021,mdr_xafs_db,CC-BY-4.0,Fe K,45 permalloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_3022,mdr_xafs_db,CC-BY-4.0,Cu K,mu-metal,foil,train,COD 4105040
+mdr_nims_3023,mdr_xafs_db,CC-BY-4.0,Cu K,Copper nickel,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_3024,mdr_xafs_db,CC-BY-4.0,Cu K,Manganin,compound,unused,FEFF twin unavailable: unparsable formula: Invalid formula=''
+mdr_nims_3028,mdr_xafs_db,CC-BY-4.0,Cu K,mu-metal,foil,train,COD 4105040
+mdr_nims_3094,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(I) chloride, anhydrous",compound,unused,FEFF twin unavailable: unparsable formula: ｌ is an invalid formula!
+mdr_nims_3095,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper(I) chloride, anhydrous",compound,unused,FEFF twin unavailable: unparsable formula: ｌ is an invalid formula!
+mdr_nims_3096,mdr_xafs_db,CC-BY-4.0,Fe K,Barium iron oxide (Barium ferrite),compound,eval,COD 1008328
+mdr_nims_3361,mdr_xafs_db,CC-BY-4.0,Pt L3,Copper-platinum alloy,alloy,eval,Concord Forge P001847 (PtCu)
+mdr_nims_3371,mdr_xafs_db,CC-BY-4.0,Pt L3,Potassium tetrachloro platinate,compound,val,COD 1010083
+mdr_nims_3372,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel chloraide, hydrous",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_3373,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel sulfate, hydrous",compound,eval,FEFF twin unavailable: no COD entry
+mdr_nims_3374,mdr_xafs_db,CC-BY-4.0,Ni K,"Nickel(II) acetate, tetrahydrate",compound,eval,FEFF twin unavailable: unparsable formula: _4 is an invalid formula!
+mdr_nims_3378,mdr_xafs_db,CC-BY-4.0,Fe K,Iron,foil,train,COD 1100108
+mdr_nims_3378_ref,mdr_xafs_db,CC-BY-4.0,Fe K,reference channel of dataset (FeFOIL),foil,eval,COD 1100108
+mdr_nims_3379_ref,mdr_xafs_db,CC-BY-4.0,Fe K,reference channel of dataset (FEfoilat70K),foil,eval,COD 1100108
+mdr_nims_3379,mdr_xafs_db,CC-BY-4.0,Fe K,Iron,foil,train,COD 1100108
+mdr_nims_3382_ref,mdr_xafs_db,CC-BY-4.0,Ni K,reference channel of dataset (Ni300KNi-K),other,unused,no twin model for sample type 'other'
+mdr_nims_3382,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel,foil,val,COD 4320486
+mdr_nims_3384,mdr_xafs_db,CC-BY-4.0,Pt L3,"Platinum hexachloro platinate, hexahydrate",compound,unused,FEFF twin unavailable: unparsable formula: _6 is an invalid formula!
+mdr_nims_3386,mdr_xafs_db,CC-BY-4.0,Cu K,Copper,foil,eval,COD 4105040
+mdr_nims_3386_ref,mdr_xafs_db,CC-BY-4.0,Cu K,reference channel of dataset (Cu298K),other,unused,no twin model for sample type 'other'
+mdr_nims_3461,mdr_xafs_db,CC-BY-4.0,Cu K,Copper-platinum alloy,alloy,unused,no twin model for sample type 'alloy'
+mdr_nims_3486_ref,mdr_xafs_db,CC-BY-4.0,Ni K,reference channel of dataset (Nifoil),foil,train,COD 4320486
+mdr_nims_3486,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel(II) oxide,compound,train,COD 1010093
+mdr_nims_3491_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Cofoil),foil,train,COD 9008492
+mdr_nims_3491,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3492_ref,mdr_xafs_db,CC-BY-4.0,Fe K,reference channel of dataset (Fefoil),foil,eval,COD 1100108
+mdr_nims_3492,mdr_xafs_db,CC-BY-4.0,Fe K,Lanthanum-iron oxide,compound,train,COD 1561804
+mdr_nims_3493_ref,mdr_xafs_db,CC-BY-4.0,Fe K,reference channel of dataset (Fefoil),foil,eval,COD 1100108
+mdr_nims_3493,mdr_xafs_db,CC-BY-4.0,Fe K,Strontium-doped Lanthanum iron(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3494_ref,mdr_xafs_db,CC-BY-4.0,Fe K,reference channel of dataset (Fefoil),foil,eval,COD 1100108
+mdr_nims_3494,mdr_xafs_db,CC-BY-4.0,Fe K,Strontium-doped Lanthanum iron(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3502_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Cofoil),foil,train,COD 9008492
+mdr_nims_3502,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3503_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Cofoil),foil,train,COD 9008492
+mdr_nims_3503,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3504_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3504,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3505_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3505,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3506_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3506,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3507_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3507,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3508_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3508,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3509_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Co_foil),foil,train,COD 9008492
+mdr_nims_3509,mdr_xafs_db,CC-BY-4.0,Co K,Strontium-doped Lanthanum Cobalt(III) oxide,compound,unused,FEFF twin unavailable: no COD entry
+mdr_nims_3514,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel,foil,val,COD 4320486
+mdr_nims_3515,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt,foil,train,COD 9008492
+mdr_nims_3529,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum,foil,val,COD 1011103
+mdr_nims_3536,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum,foil,val,COD 1011103
+mdr_nims_3537,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum(II) chloride,compound,train,COD 1534093
+mdr_nims_3537_ref,mdr_xafs_db,CC-BY-4.0,Pt L3,reference channel of dataset (L3_PtFoil),foil,train,COD 1011103
+mdr_nims_3538,mdr_xafs_db,CC-BY-4.0,Pt L3,Platinum(IV) oxide,compound,train,COD 1537410
+mdr_nims_3542,mdr_xafs_db,CC-BY-4.0,Cu K,Copper(II) oxide,compound,train,COD 1011148
+mdr_nims_3546_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Cofoil),foil,train,COD 9008492
+mdr_nims_3546,mdr_xafs_db,CC-BY-4.0,Co K,Cobalt(II) oxide,compound,train,COD 1533087
+mdr_nims_3556,mdr_xafs_db,CC-BY-4.0,Co K,"Cobalt(II,III) oxide",compound,eval,COD 1526734
+mdr_nims_3556_ref,mdr_xafs_db,CC-BY-4.0,Co K,reference channel of dataset (Cofoil),foil,train,COD 9008492
+mdr_nims_3559,mdr_xafs_db,CC-BY-4.0,Cu K,"Copper bis(2,2,6,6-tetramethyl-3,5-heptanedionate)",compound,train,COD 2004752
+mdr_nims_3566_ref,mdr_xafs_db,CC-BY-4.0,Ni K,reference channel of dataset (Ni-foil),foil,train,COD 4320486
+mdr_nims_3566,mdr_xafs_db,CC-BY-4.0,Ni K,Nickel phosphide,compound,eval,COD 1522619
+z17131699_569_HIS0_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); pristine,catalyst,train,Concord Forge P001402 (Pt)
+z17131699_569_HIS1_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,eval,Concord Forge P000994 (Pt)
+z17131699_569_HIS3_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,val,Concord Forge P000388 (Pt)
+z17131699_569_HIS8_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000445 (Pt)
+z17131699_569_HIS24_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000505 (Pt)
+z17131699_569_HIS72_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt/C (commercial); leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001372 (Pt)
+z17131699_569_Pt_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt foil (energy reference measured with the series),foil,train,COD 1011103
+z17131699_570_KET0_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); pristine,catalyst,train,Concord Forge P000266 (Pt3Co)
+z17131699_570_KET1_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000263 (Pt3Co)
+z17131699_570_KET3_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001825 (Pt3Co)
+z17131699_570_KET8_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001418 (Pt3Co)
+z17131699_570_KET24_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000160 (Pt3Co)
+z17131699_570_KET72_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/Ketjen Black (intermetallic); leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001032 (Pt3Co)
+z17131699_570_Co_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Co foil (energy reference measured with the series),foil,val,COD 9008492
+z17131699_571_KET0_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); pristine,catalyst,train,Concord Forge P001275 (Pt3Co)
+z17131699_571_KET1_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001289 (Pt3Co)
+z17131699_571_KET3_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001615 (Pt3Co)
+z17131699_571_KET8_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001367 (Pt3Co)
+z17131699_571_KET24_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,eval,Concord Forge P001108 (Pt3Co)
+z17131699_571_KET72_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/Ketjen Black (intermetallic); leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001123 (Pt3Co)
+z17131699_572_GO0_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; pristine,catalyst,eval,Concord Forge P000669 (Pt3Co)
+z17131699_572_GO1_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000458 (Pt3Co)
+z17131699_572_GO3_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001829 (Pt3Co)
+z17131699_572_GO8_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001433 (Pt3Co)
+z17131699_572_GO24_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000003 (Pt3Co)
+z17131699_572_GO72_Co_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Pt-Co/reduced graphene oxide; leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,eval,Concord Forge P000819 (Pt3Co)
+z17131699_572_Co_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Co K,Co foil (energy reference measured with the series),foil,val,COD 9008492
+z17131699_573_GO0_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; pristine,catalyst,train,Concord Forge P001941 (Pt3Co)
+z17131699_573_GO1_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001122 (Pt3Co)
+z17131699_573_GO3_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,val,Concord Forge P000364 (Pt3Co)
+z17131699_573_GO8_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001711 (Pt3Co)
+z17131699_573_GO24_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001615 (Pt3Co)
+z17131699_573_GO72_Pt_L2_3_FLUO,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Co/reduced graphene oxide; leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001921 (Pt3Co)
+z17131699_573_Pt_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt foil (energy reference measured with the series),foil,train,COD 1011103
+z17131699_574_Ni0_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); pristine,catalyst,train,Concord Forge P000169 (Pt3Ni)
+z17131699_574_Ni1_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001742 (Pt3Ni)
+z17131699_574_Ni3_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001903 (Pt3Ni)
+z17131699_574_Ni8_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000537 (Pt3Ni)
+z17131699_574_Ni24_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P001201 (Pt3Ni)
+z17131699_574_Ni72_K-edge_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Pt-Ni/Ketjen Black (intermetallic); leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,val,Concord Forge P001464 (Pt3Ni)
+z17131699_574_Ni_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Ni K,Ni foil (energy reference measured with the series),foil,train,COD 4320486
+z17131699_575_Ni0_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); pristine,catalyst,train,Concord Forge P000509 (Pt3Ni)
+z17131699_575_Ni1_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); leached 1 h in 98 wt% H3PO4 at 180 C,catalyst,eval,Concord Forge P000992 (Pt3Ni)
+z17131699_575_Ni3_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); leached 3 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000790 (Pt3Ni)
+z17131699_575_Ni8_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); leached 8 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000715 (Pt3Ni)
+z17131699_575_Ni24_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); leached 24 h in 98 wt% H3PO4 at 180 C,catalyst,train,Concord Forge P000574 (Pt3Ni)
+z17131699_575_Ni72_Pt_L2_3_FLUO_Down.txt,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt-Ni/Ketjen Black (intermetallic); leached 72 h in 98 wt% H3PO4 at 180 C,catalyst,val,Concord Forge P000172 (Pt3Ni)
+z17131699_575_Ni_foil,zenodo_17131699_PtCo_PtNi_HTPEM,CC-BY-4.0,Pt L3,Pt foil (energy reference measured with the series) (column labelled 'Ni foil' but energy range is Pt L3),foil,train,COD 1011103
+cardiff_27052390_Raw_XAFS_Data__00_PtO2,cardiff_27052390,CC-BY-4.0,Pt L3,PtO2 reference,compound,train,COD 1537410
+cardiff_27052390_Raw_XAFS_Data__01_hzuh,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (Raw XAFS Data__01_hzuh),catalyst,unused,no twin model for sample type 'catalyst'
+cardiff_27052390_Raw_XAFS_Data__02_25C_-_reduced,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (25C - reduced),catalyst,train,Concord Forge P000036 (Pt)
+cardiff_27052390_Raw_XAFS_Data__03_75C_-_fresh,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (75C - fresh),catalyst,eval,Concord Forge P000128 (Pt)
+cardiff_27052390_Raw_XAFS_Data__04_75C_-_reduced,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (75C - reduced),catalyst,train,Concord Forge P001447 (Pt)
+cardiff_27052390_Raw_XAFS_Data__05_Pt_foil,cardiff_27052390,CC-BY-4.0,Pt L3,Pt foil,foil,val,COD 1011103
+cardiff_27052390_Raw_XAFS_Data__06_50C_-_fresh,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (50C - fresh),catalyst,val,Concord Forge P001026 (Pt)
+cardiff_27052390_Raw_XAFS_Data__07_90C_-_fresh,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (90C - fresh),catalyst,train,Concord Forge P001417 (Pt)
+cardiff_27052390_Raw_XAFS_Data__08_50C_-_reduced,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (50C - reduced),catalyst,eval,Concord Forge P000378 (Pt)
+cardiff_27052390_Raw_XAFS_Data__09_90C_-_reduced,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (90C - reduced),catalyst,train,Concord Forge P001349 (Pt)
+cardiff_27052390_Raw_XAFS_Data__10_Pt25_used_merge_15k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (Pt25 used merge 15k),catalyst,train,Concord Forge P001677 (Pt)
+cardiff_27052390_Raw_XAFS_Data__11___Ref_Pt25_used_merge_15k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt foil (reference channel measured simultaneously),foil,eval,COD 1011103
+cardiff_27052390_Raw_XAFS_Data__12_Pt25_used_merge_18k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (Pt25 used merge 18k),catalyst,train,Concord Forge P000572 (Pt)
+cardiff_27052390_Raw_XAFS_Data__13___Ref_Pt25_used_merge_18k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt foil (reference channel measured simultaneously),foil,eval,COD 1011103
+cardiff_27052390_Raw_XAFS_Data__14_Pt75_used_merge_15k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (Pt75 used merge 15k),catalyst,train,Concord Forge P000800 (Pt)
+cardiff_27052390_Raw_XAFS_Data__15___Ref_Pt75_used_merge_15k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt foil (reference channel measured simultaneously),foil,eval,COD 1011103
+cardiff_27052390_Raw_XAFS_Data__16_Pt75_used_merge_18k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt nanoparticles on Al2O3 (Pt75 used merge 18k),catalyst,eval,Concord Forge P001999 (Pt)
+cardiff_27052390_Raw_XAFS_Data__17___Ref_Pt75_used_merge_18k,cardiff_27052390,CC-BY-4.0,Pt L3,Pt foil (reference channel measured simultaneously),foil,eval,COD 1011103
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_Pt_O2C5H7_2,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(acac)2 reference,compound,train,COD 8103158
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_PtCl2,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,PtCl2 reference,compound,eval,COD 1534093
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_PtCl4_NH4_2,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,(NH4)2PtCl4 reference,compound,unused,FEFF twin unavailable: no parsable ordered COD structure
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_PtCl6_NH4_2,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,(NH4)2PtCl6 reference,compound,unused,FEFF twin unavailable: FEFF error FEFF produced no paths in D:\GAN\artifacts\data\work\feff\tmp\NH42PtCl6Pt_Pt_0: 
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_PtO2,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,PtO2 reference,compound,train,COD 1537410
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GClN-d57,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GClN-d57),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GCl-d57,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GCl-d57),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GCl-pH4,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GCl-pH4),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GCl-d1,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GCl-d1),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GCl-pH8,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GCl-pH8),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-d6,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-d6),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-d13,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-d13),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-d57,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-d57),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HClN-d1,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HClN-d1),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HClN-d57,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HClN-d57),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-pH4,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-pH4),other,eval,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-d1,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-d1),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-pH8,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-pH8),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HCl-d29,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HCl-d29),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_HClN-d6,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on hematite (HClN-d6),other,unused,no twin model for sample type 'other'
+mendeley_9bhtr2w54w_Wright2026_EXAFS_data_GClN-d1,mendeley_9bhtr2w54w,CC-BY-4.0,Pt L3,Pt(II) adsorbed on goethite (GClN-d1),other,unused,no twin model for sample type 'other'

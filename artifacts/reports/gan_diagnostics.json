@@ -1,0 +1,145 @@
+[
+ {
+  "technique": "xrd",
+  "n_eval_real": 55,
+  "c2st": {
+   "raw_twin": {
+    "acc": 0.8454545454545455,
+    "fold_std": 0.08430562268632459
+   },
+   "classical": {
+    "acc": 0.8090909090909092,
+    "fold_std": 0.04453617714151235
+   },
+   "gan": {
+    "acc": 0.6636363636363635,
+    "fold_std": 0.10204520145747113
+   }
+  },
+  "frechet": {
+   "raw_twin": 58.497219624285876,
+   "classical": 51.57460594781741,
+   "gan": 60.96885207006484
+  },
+  "figure": "figures/gan_examples_xrd.png",
+  "frechet_dim": 18,
+  "frechet_encoder": "artifacts\\models\\work\\predictor_a_s1\\best.pt",
+  "diversity": {
+   "rel_pairwise_distance": 0.08254367858171463,
+   "var_bg": 2.242521814433861e-05,
+   "var_gain": 1.7916398217142737e-06,
+   "var_nscale": 3.3990245273245053e-07
+  },
+  "label_preservation": {
+   "n": 500,
+   "n_fit_ok": 500,
+   "n_fit_failed_clean": 0,
+   "n_fit_failed_gan": 0,
+   "failure_rate": 0.014,
+   "failure_rate_fit_ok": 0.014,
+   "recover_clean": 0.792,
+   "recover_gan": 0.788,
+   "tolerance": {
+    "a": 0.005
+   }
+  },
+  "generator_sha256": "f22b89923c5158643b83b73d1987bc148f89d983d5f18c6d87d5a8522d0a6216",
+  "encoder_sha256": "46932dd7a283cc4342b6470285459811c082417f22a98d8ac1e0d72c9ebebbdd"
+ },
+ {
+  "technique": "pdf",
+  "n_eval_real": 10,
+  "c2st": {
+   "raw_twin": {
+    "acc": 0.95,
+    "fold_std": 0.09999999999999999
+   },
+   "classical": {
+    "acc": 0.8,
+    "fold_std": 0.09999999999999999
+   },
+   "gan": {
+    "acc": 0.95,
+    "fold_std": 0.09999999999999999
+   }
+  },
+  "frechet": {
+   "raw_twin": 201.26436683451996,
+   "classical": 194.56009666941915,
+   "gan": 199.82802837088565
+  },
+  "figure": "figures/gan_examples_pdf.png",
+  "frechet_dim": 3,
+  "frechet_encoder": "artifacts\\models\\work\\predictor_a_s1\\best.pt",
+  "diversity": {
+   "rel_pairwise_distance": 0.011810922995209694,
+   "var_bg": 7.337668854745516e-08,
+   "var_gain": 2.6422882726251373e-08,
+   "var_nscale": 1.2568796048384457e-08
+  },
+  "label_preservation": {
+   "n": 500,
+   "n_fit_ok": 488,
+   "n_fit_failed_clean": 12,
+   "n_fit_failed_gan": 0,
+   "failure_rate": 0.024,
+   "failure_rate_fit_ok": 0.0,
+   "recover_clean": 0.808,
+   "recover_gan": 0.808,
+   "tolerance": {
+    "a": 0.005,
+    "d_rel": 0.1
+   }
+  },
+  "generator_sha256": "d49038f02a2bfb1366f3760a8fe35ad89c8e4875e87e7ee4b766b07a7f944582",
+  "encoder_sha256": "46932dd7a283cc4342b6470285459811c082417f22a98d8ac1e0d72c9ebebbdd"
+ },
+ {
+  "technique": "exafs",
+  "n_eval_real": 74,
+  "c2st": {
+   "raw_twin": {
+    "acc": 0.9455172413793104,
+    "fold_std": 0.055447589633770444
+   },
+   "classical": {
+    "acc": 0.9188505747126436,
+    "fold_std": 0.050063244451123166
+   },
+   "gan": {
+    "acc": 0.9057471264367816,
+    "fold_std": 0.03865898484520075
+   }
+  },
+  "frechet": {
+   "raw_twin": 82.27891096906856,
+   "classical": 167.05851023347208,
+   "gan": 82.9031889508754
+  },
+  "figure": "figures/gan_examples_exafs.png",
+  "frechet_dim": 24,
+  "frechet_encoder": "artifacts\\models\\work\\predictor_a_s1\\best.pt",
+  "diversity": {
+   "rel_pairwise_distance": 0.041627660393714905,
+   "var_bg": 1.3231453972473162e-06,
+   "var_gain": 1.5662507521409935e-10,
+   "var_nscale": 8.369081776482545e-07
+  },
+  "label_preservation": {
+   "n": 500,
+   "n_fit_ok": 500,
+   "n_fit_failed_clean": 0,
+   "n_fit_failed_gan": 0,
+   "failure_rate": 0.0,
+   "failure_rate_fit_ok": 0.0,
+   "recover_clean": 0.512,
+   "recover_gan": 0.512,
+   "tolerance": {
+    "N_rel": 0.1,
+    "R": 0.01
+   }
+  },
+  "generator_sha256": "fa58f869bfdf73e6b4f9c3677e1369e165b7be037aa4ff1f92ea41cec327a14e",
+  "encoder_sha256": "46932dd7a283cc4342b6470285459811c082417f22a98d8ac1e0d72c9ebebbdd"
+ }
+]

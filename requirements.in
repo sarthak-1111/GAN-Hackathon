@@ -1,0 +1,26 @@
+# Pinned top-level dependencies for Concord Forge (Python 3.12.15, Windows x64, CUDA 12.6 wheels).
+# Versions checked against PyPI / download.pytorch.org on 2026-10-22.
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.14.1+cu126
+numpy==2.5.4
+scipy==1.18.1
+h5py==3.16.0
+pandas==3.0.6
+pyyaml==6.0.3
+matplotlib==3.11.2
+tensorboard==2.21.0
+scikit-learn==1.9.1
+ase==3.29.0
+pymatgen==2026.9.24
+xraylarch==2026.3.1
+xraydb==4.5.8
+lmfit==1.3.4
+diffpy.pdffit2==1.6.0
+diffpy.structure==3.5.0
+debyecalculator==1.1.1
+jarvis-tools==2026.6.12
+requests==2.34.2
+tqdm==4.70.1
+python-dotenv==1.2.4
+psutil==7.2.2
+pytest==9.1.1
